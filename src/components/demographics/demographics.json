@@ -1,0 +1,8002 @@
+[
+  {
+    "gender": "M",
+    "age": 85,
+    "occupation": "Sales Associate",
+    "income": "$25636.20",
+    "religion": "Uruguayan",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Software Consultant",
+    "income": "$98965.94",
+    "religion": "Potawatomi",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 39,
+    "occupation": "Teacher",
+    "income": "$29511.41",
+    "religion": "Iroquois",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 82,
+    "occupation": "Research Assistant II",
+    "income": "$20813.25",
+    "religion": "Bolivian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 84,
+    "occupation": "Systems Administrator III",
+    "income": "$20039.79",
+    "religion": "Yaqui",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 44,
+    "occupation": "Nuclear Power Engineer",
+    "income": "$77513.02",
+    "religion": "Uruguayan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 31,
+    "occupation": "Assistant Media Planner",
+    "income": "$58008.25",
+    "religion": "Japanese",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 22,
+    "occupation": "Technical Writer",
+    "income": "$92958.74",
+    "religion": "Creek",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 34,
+    "occupation": "Librarian",
+    "income": "$44226.06",
+    "religion": "Creek",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 90,
+    "occupation": "Quality Control Specialist",
+    "income": "$22364.66",
+    "religion": "Sioux",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 43,
+    "occupation": "Programmer III",
+    "income": "$33276.73",
+    "religion": "Spaniard",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 46,
+    "occupation": "Food Chemist",
+    "income": "$16256.60",
+    "religion": "Asian Indian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 70,
+    "occupation": "Food Chemist",
+    "income": "$68664.69",
+    "religion": "Salvadoran",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 56,
+    "occupation": "Systems Administrator II",
+    "income": "$46352.04",
+    "religion": "Paiute",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 27,
+    "occupation": "Biostatistician I",
+    "income": "$26862.85",
+    "religion": "Guamanian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 71,
+    "occupation": "Accounting Assistant IV",
+    "income": "$89155.76",
+    "religion": "Costa Rican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 22,
+    "occupation": "Sales Representative",
+    "income": "$60844.38",
+    "religion": "Alaskan Athabascan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 37,
+    "occupation": "Speech Pathologist",
+    "income": "$20101.03",
+    "religion": "Mexican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 67,
+    "occupation": "Web Designer II",
+    "income": "$37404.04",
+    "religion": "Crow",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 65,
+    "occupation": "Account Representative III",
+    "income": "$14539.29",
+    "religion": "Navajo",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 50,
+    "occupation": "Nurse Practicioner",
+    "income": "$71539.42",
+    "religion": "Sri Lankan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 74,
+    "occupation": "Safety Technician II",
+    "income": "$76915.27",
+    "religion": "Venezuelan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 71,
+    "occupation": "Editor",
+    "income": "$87656.96",
+    "religion": "Delaware",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 55,
+    "occupation": "Operator",
+    "income": "$70769.23",
+    "religion": "Shoshone",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 88,
+    "occupation": "Budget/Accounting Analyst II",
+    "income": "$31434.55",
+    "religion": "Eskimo",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 48,
+    "occupation": "Safety Technician I",
+    "income": "$10349.65",
+    "religion": "Ute",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 54,
+    "occupation": "Systems Administrator IV",
+    "income": "$13363.66",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 59,
+    "occupation": "Computer Systems Analyst III",
+    "income": "$44842.40",
+    "religion": "Venezuelan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 15,
+    "occupation": "Data Coordiator",
+    "income": "$74039.19",
+    "religion": "Venezuelan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 16,
+    "occupation": "Assistant Professor",
+    "income": "$34656.40",
+    "religion": "Central American",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 72,
+    "occupation": "Occupational Therapist",
+    "income": "$31833.70",
+    "religion": "Guatemalan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 18,
+    "occupation": "Legal Assistant",
+    "income": "$86407.86",
+    "religion": "Shoshone",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 53,
+    "occupation": "VP Product Management",
+    "income": "$74008.84",
+    "religion": "Tohono O'Odham",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 77,
+    "occupation": "Senior Financial Analyst",
+    "income": "$78337.92",
+    "religion": "Creek",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 18,
+    "occupation": "Assistant Professor",
+    "income": "$50069.41",
+    "religion": "Navajo",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 66,
+    "occupation": "Help Desk Technician",
+    "income": "$57694.90",
+    "religion": "Cree",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 69,
+    "occupation": "Tax Accountant",
+    "income": "$11877.50",
+    "religion": "Comanche",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 55,
+    "occupation": "Civil Engineer",
+    "income": "$76717.19",
+    "religion": "Tohono O'Odham",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 78,
+    "occupation": "Product Engineer",
+    "income": "$96588.35",
+    "religion": "Central American",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 83,
+    "occupation": "Mechanical Systems Engineer",
+    "income": "$35693.53",
+    "religion": "Vietnamese",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 48,
+    "occupation": "Senior Quality Engineer",
+    "income": "$12764.97",
+    "religion": "Indonesian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 79,
+    "occupation": "Human Resources Manager",
+    "income": "$76272.29",
+    "religion": "Seminole",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 56,
+    "occupation": "Accountant III",
+    "income": "$25527.74",
+    "religion": "Puget Sound Salish",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 69,
+    "occupation": "VP Accounting",
+    "income": "$97387.15",
+    "religion": "Tongan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 36,
+    "occupation": "Systems Administrator II",
+    "income": "$45230.03",
+    "religion": "Colombian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 62,
+    "occupation": "Computer Systems Analyst II",
+    "income": "$45981.22",
+    "religion": "Nicaraguan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 79,
+    "occupation": "Senior Developer",
+    "income": "$84545.27",
+    "religion": "Crow",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 70,
+    "occupation": "Assistant Professor",
+    "income": "$96803.13",
+    "religion": "Vietnamese",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 27,
+    "occupation": "Structural Analysis Engineer",
+    "income": "$75382.93",
+    "religion": "Ute",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 61,
+    "occupation": "Recruiter",
+    "income": "$92183.71",
+    "religion": "Iroquois",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 60,
+    "occupation": "Legal Assistant",
+    "income": "$20533.25",
+    "religion": "Navajo",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 54,
+    "occupation": "Analyst Programmer",
+    "income": "$34987.75",
+    "religion": "Crow",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 30,
+    "occupation": "Senior Quality Engineer",
+    "income": "$58645.86",
+    "religion": "Cuban",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 65,
+    "occupation": "Help Desk Operator",
+    "income": "$77298.32",
+    "religion": "Tongan",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 53,
+    "occupation": "Web Developer IV",
+    "income": "$69674.92",
+    "religion": "Ottawa",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 53,
+    "occupation": "Database Administrator II",
+    "income": "$57283.22",
+    "religion": "Korean",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 73,
+    "occupation": "Recruiter",
+    "income": "$34195.33",
+    "religion": "Delaware",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 47,
+    "occupation": "Desktop Support Technician",
+    "income": "$62463.09",
+    "religion": "Crow",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 82,
+    "occupation": "Environmental Specialist",
+    "income": "$26034.57",
+    "religion": "Bolivian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 19,
+    "occupation": "Physical Therapy Assistant",
+    "income": "$21241.32",
+    "religion": "Fijian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 71,
+    "occupation": "Registered Nurse",
+    "income": "$11757.64",
+    "religion": "Apache",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 46,
+    "occupation": "Sales Associate",
+    "income": "$64280.48",
+    "religion": "Laotian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 80,
+    "occupation": "Speech Pathologist",
+    "income": "$77055.32",
+    "religion": "Sri Lankan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 28,
+    "occupation": "Environmental Tech",
+    "income": "$43262.65",
+    "religion": "Uruguayan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 22,
+    "occupation": "Director of Sales",
+    "income": "$72926.58",
+    "religion": "Guamanian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 63,
+    "occupation": "Research Nurse",
+    "income": "$28881.72",
+    "religion": "Tlingit-Haida",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 28,
+    "occupation": "Staff Scientist",
+    "income": "$93077.35",
+    "religion": "Chilean",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 67,
+    "occupation": "Compensation Analyst",
+    "income": "$47398.14",
+    "religion": "Aleut",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 44,
+    "occupation": "Help Desk Technician",
+    "income": "$48940.34",
+    "religion": "Ute",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 38,
+    "occupation": "Account Representative II",
+    "income": "$51856.41",
+    "religion": "Chickasaw",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 59,
+    "occupation": "Statistician III",
+    "income": "$66001.29",
+    "religion": "Thai",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 78,
+    "occupation": "Recruiter",
+    "income": "$22544.05",
+    "religion": "Pima",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 35,
+    "occupation": "Technical Writer",
+    "income": "$78843.86",
+    "religion": "Puerto Rican",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 71,
+    "occupation": "Sales Associate",
+    "income": "$32626.39",
+    "religion": "Vietnamese",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 35,
+    "occupation": "Administrative Officer",
+    "income": "$99872.40",
+    "religion": "Yaqui",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 82,
+    "occupation": "Software Engineer II",
+    "income": "$82224.10",
+    "religion": "Bolivian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 24,
+    "occupation": "Actuary",
+    "income": "$10218.68",
+    "religion": "Korean",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 22,
+    "occupation": "Media Manager III",
+    "income": "$53398.93",
+    "religion": "Mexican",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 51,
+    "occupation": "Junior Executive",
+    "income": "$43661.97",
+    "religion": "Sri Lankan",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 84,
+    "occupation": "Nurse",
+    "income": "$95566.98",
+    "religion": "Peruvian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 44,
+    "occupation": "Senior Editor",
+    "income": "$41141.81",
+    "religion": "Iroquois",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 38,
+    "occupation": "Automation Specialist III",
+    "income": "$77613.60",
+    "religion": "Comanche",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 22,
+    "occupation": "Assistant Media Planner",
+    "income": "$15687.55",
+    "religion": "Bolivian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 38,
+    "occupation": "Speech Pathologist",
+    "income": "$22026.82",
+    "religion": "Central American",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 64,
+    "occupation": "Engineer II",
+    "income": "$68561.32",
+    "religion": "Chinese",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 61,
+    "occupation": "Administrative Assistant III",
+    "income": "$47215.91",
+    "religion": "Thai",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 33,
+    "occupation": "Data Coordiator",
+    "income": "$99750.04",
+    "religion": "Paiute",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 49,
+    "occupation": "Assistant Professor",
+    "income": "$47667.41",
+    "religion": "Iroquois",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 62,
+    "occupation": "Community Outreach Specialist",
+    "income": "$22537.36",
+    "religion": "Asian Indian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 71,
+    "occupation": "Recruiter",
+    "income": "$37276.33",
+    "religion": "South American",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 65,
+    "occupation": "Software Consultant",
+    "income": "$77383.16",
+    "religion": "Ecuadorian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 15,
+    "occupation": "Accounting Assistant III",
+    "income": "$32438.51",
+    "religion": "Honduran",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 15,
+    "occupation": "Food Chemist",
+    "income": "$18537.42",
+    "religion": "Thai",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 86,
+    "occupation": "Automation Specialist II",
+    "income": "$23957.22",
+    "religion": "Latin American Indian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 80,
+    "occupation": "Account Representative IV",
+    "income": "$47689.11",
+    "religion": "Pakistani",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 59,
+    "occupation": "Software Test Engineer III",
+    "income": "$44714.68",
+    "religion": "Puget Sound Salish",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 88,
+    "occupation": "Speech Pathologist",
+    "income": "$28743.20",
+    "religion": "Fijian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 38,
+    "occupation": "Information Systems Manager",
+    "income": "$33398.75",
+    "religion": "Asian Indian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 59,
+    "occupation": "Accounting Assistant IV",
+    "income": "$77495.30",
+    "religion": "Native Hawaiian and Other Pacific Islander (NHPI)",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 50,
+    "occupation": "Assistant Manager",
+    "income": "$23461.79",
+    "religion": "Delaware",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 78,
+    "occupation": "Automation Specialist IV",
+    "income": "$11605.05",
+    "religion": "Choctaw",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 21,
+    "occupation": "Programmer IV",
+    "income": "$19046.37",
+    "religion": "Paiute",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 84,
+    "occupation": "Developer IV",
+    "income": "$95525.44",
+    "religion": "Hmong",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 58,
+    "occupation": "Staff Scientist",
+    "income": "$89540.44",
+    "religion": "Latin American Indian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 40,
+    "occupation": "Quality Control Specialist",
+    "income": "$20662.69",
+    "religion": "Yuman",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 26,
+    "occupation": "Budget/Accounting Analyst IV",
+    "income": "$95139.30",
+    "religion": "Honduran",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 49,
+    "occupation": "Registered Nurse",
+    "income": "$66176.66",
+    "religion": "Hmong",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 50,
+    "occupation": "Operator",
+    "income": "$66943.62",
+    "religion": "Creek",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 65,
+    "occupation": "Automation Specialist I",
+    "income": "$32239.73",
+    "religion": "Puget Sound Salish",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 28,
+    "occupation": "General Manager",
+    "income": "$63913.27",
+    "religion": "Puerto Rican",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 17,
+    "occupation": "Statistician II",
+    "income": "$91697.28",
+    "religion": "Cheyenne",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 30,
+    "occupation": "Financial Advisor",
+    "income": "$26790.70",
+    "religion": "Tohono O'Odham",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 88,
+    "occupation": "Developer II",
+    "income": "$65796.07",
+    "religion": "Crow",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 52,
+    "occupation": "Software Engineer III",
+    "income": "$66479.39",
+    "religion": "Chamorro",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 47,
+    "occupation": "Account Executive",
+    "income": "$22483.55",
+    "religion": "Samoan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 52,
+    "occupation": "Mechanical Systems Engineer",
+    "income": "$86038.96",
+    "religion": "Melanesian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 81,
+    "occupation": "VP Accounting",
+    "income": "$37289.55",
+    "religion": "Pueblo",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 72,
+    "occupation": "Desktop Support Technician",
+    "income": "$63192.84",
+    "religion": "Chickasaw",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 21,
+    "occupation": "Nuclear Power Engineer",
+    "income": "$67902.21",
+    "religion": "Shoshone",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 32,
+    "occupation": "Accounting Assistant II",
+    "income": "$97896.59",
+    "religion": "Ute",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 33,
+    "occupation": "Cost Accountant",
+    "income": "$21653.70",
+    "religion": "Paiute",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 85,
+    "occupation": "Help Desk Technician",
+    "income": "$57662.06",
+    "religion": "Colombian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 80,
+    "occupation": "VP Sales",
+    "income": "$54132.07",
+    "religion": "Yakama",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 66,
+    "occupation": "VP Product Management",
+    "income": "$42515.82",
+    "religion": "Paraguayan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 64,
+    "occupation": "Software Test Engineer III",
+    "income": "$47065.41",
+    "religion": "Laotian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 43,
+    "occupation": "Environmental Tech",
+    "income": "$93810.64",
+    "religion": "Cree",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 39,
+    "occupation": "Speech Pathologist",
+    "income": "$22060.90",
+    "religion": "Yakama",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 55,
+    "occupation": "Desktop Support Technician",
+    "income": "$24491.57",
+    "religion": "South American",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 54,
+    "occupation": "Community Outreach Specialist",
+    "income": "$59104.97",
+    "religion": "Black or African American",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 49,
+    "occupation": "Legal Assistant",
+    "income": "$39157.69",
+    "religion": "Sri Lankan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 39,
+    "occupation": "Media Manager II",
+    "income": "$67369.74",
+    "religion": "Pakistani",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 42,
+    "occupation": "Software Consultant",
+    "income": "$18660.10",
+    "religion": "Fijian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 83,
+    "occupation": "Administrative Officer",
+    "income": "$27182.72",
+    "religion": "Yaqui",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 32,
+    "occupation": "Compensation Analyst",
+    "income": "$89134.53",
+    "religion": "Costa Rican",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 80,
+    "occupation": "Sales Representative",
+    "income": "$52683.32",
+    "religion": "Yuman",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 75,
+    "occupation": "Administrative Officer",
+    "income": "$47809.53",
+    "religion": "Blackfeet",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 70,
+    "occupation": "Associate Professor",
+    "income": "$99841.64",
+    "religion": "Melanesian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 16,
+    "occupation": "Registered Nurse",
+    "income": "$76774.96",
+    "religion": "White",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 50,
+    "occupation": "Project Manager",
+    "income": "$70403.78",
+    "religion": "Ottawa",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 62,
+    "occupation": "Assistant Manager",
+    "income": "$28750.74",
+    "religion": "Chamorro",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 25,
+    "occupation": "Actuary",
+    "income": "$77337.21",
+    "religion": "Cherokee",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 69,
+    "occupation": "Quality Engineer",
+    "income": "$11507.71",
+    "religion": "Yakama",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 20,
+    "occupation": "VP Quality Control",
+    "income": "$50864.87",
+    "religion": "Blackfeet",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 63,
+    "occupation": "Office Assistant II",
+    "income": "$34218.85",
+    "religion": "Alaskan Athabascan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 45,
+    "occupation": "Assistant Media Planner",
+    "income": "$88701.54",
+    "religion": "Choctaw",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 32,
+    "occupation": "Database Administrator II",
+    "income": "$28584.91",
+    "religion": "Dominican (Dominican Republic)",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 17,
+    "occupation": "Software Consultant",
+    "income": "$57406.67",
+    "religion": "Lumbee",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 89,
+    "occupation": "VP Marketing",
+    "income": "$10616.08",
+    "religion": "Fijian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 25,
+    "occupation": "Software Consultant",
+    "income": "$31898.61",
+    "religion": "Puerto Rican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 47,
+    "occupation": "Budget/Accounting Analyst III",
+    "income": "$69060.33",
+    "religion": "Aleut",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 67,
+    "occupation": "Legal Assistant",
+    "income": "$74440.93",
+    "religion": "Chilean",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 61,
+    "occupation": "Pharmacist",
+    "income": "$85950.10",
+    "religion": "Tongan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 23,
+    "occupation": "Administrative Officer",
+    "income": "$61279.10",
+    "religion": "Menominee",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 71,
+    "occupation": "Assistant Professor",
+    "income": "$83714.05",
+    "religion": "Alaska Native",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 65,
+    "occupation": "Teacher",
+    "income": "$14726.89",
+    "religion": "Alaskan Athabascan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "occupation": "Executive Secretary",
+    "income": "$55410.78",
+    "religion": "Ottawa",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 74,
+    "occupation": "Food Chemist",
+    "income": "$19579.09",
+    "religion": "Central American",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 54,
+    "occupation": "Staff Scientist",
+    "income": "$29684.92",
+    "religion": "Menominee",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 36,
+    "occupation": "Design Engineer",
+    "income": "$78966.78",
+    "religion": "Aleut",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 54,
+    "occupation": "Community Outreach Specialist",
+    "income": "$35169.28",
+    "religion": "Tohono O'Odham",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 53,
+    "occupation": "Paralegal",
+    "income": "$36660.81",
+    "religion": "Iroquois",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 74,
+    "occupation": "Nurse",
+    "income": "$76758.33",
+    "religion": "Iroquois",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 76,
+    "occupation": "Administrative Assistant IV",
+    "income": "$40570.02",
+    "religion": "Bolivian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 44,
+    "occupation": "Payment Adjustment Coordinator",
+    "income": "$95760.24",
+    "religion": "Menominee",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 21,
+    "occupation": "Marketing Manager",
+    "income": "$93470.73",
+    "religion": "Tongan",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 31,
+    "occupation": "Information Systems Manager",
+    "income": "$16831.45",
+    "religion": "Crow",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 31,
+    "occupation": "Recruiting Manager",
+    "income": "$80473.95",
+    "religion": "Fijian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Junior Executive",
+    "income": "$73553.42",
+    "religion": "Pima",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 31,
+    "occupation": "Teacher",
+    "income": "$58903.98",
+    "religion": "Pima",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 23,
+    "occupation": "Human Resources Manager",
+    "income": "$28855.83",
+    "religion": "Houma",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 35,
+    "occupation": "Clinical Specialist",
+    "income": "$88608.54",
+    "religion": "Alaskan Athabascan",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 50,
+    "occupation": "Operator",
+    "income": "$59144.54",
+    "religion": "Vietnamese",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 29,
+    "occupation": "Pharmacist",
+    "income": "$12831.46",
+    "religion": "Colombian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 51,
+    "occupation": "Recruiter",
+    "income": "$21167.90",
+    "religion": "Malaysian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 73,
+    "occupation": "Staff Accountant I",
+    "income": "$10144.21",
+    "religion": "Comanche",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 54,
+    "occupation": "Chemical Engineer",
+    "income": "$79163.46",
+    "religion": "Pueblo",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 37,
+    "occupation": "Marketing Manager",
+    "income": "$92033.26",
+    "religion": "Salvadoran",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 22,
+    "occupation": "Social Worker",
+    "income": "$16478.74",
+    "religion": "Cherokee",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 35,
+    "occupation": "Chemical Engineer",
+    "income": "$50722.42",
+    "religion": "Uruguayan",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 48,
+    "occupation": "Operator",
+    "income": "$75081.76",
+    "religion": "Japanese",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 51,
+    "occupation": "Accountant III",
+    "income": "$23295.16",
+    "religion": "Uruguayan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 53,
+    "occupation": "Dental Hygienist",
+    "income": "$76860.83",
+    "religion": "Tohono O'Odham",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 38,
+    "occupation": "Research Assistant I",
+    "income": "$95957.94",
+    "religion": "Samoan",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 30,
+    "occupation": "GIS Technical Architect",
+    "income": "$85935.95",
+    "religion": "Asian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 52,
+    "occupation": "Nuclear Power Engineer",
+    "income": "$70109.62",
+    "religion": "Asian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 89,
+    "occupation": "Engineer I",
+    "income": "$82421.03",
+    "religion": "Aleut",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 72,
+    "occupation": "Developer II",
+    "income": "$21354.33",
+    "religion": "Native Hawaiian and Other Pacific Islander (NHPI)",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 39,
+    "occupation": "Librarian",
+    "income": "$97502.69",
+    "religion": "Colombian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 22,
+    "occupation": "Professor",
+    "income": "$70841.02",
+    "religion": "Argentinian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 65,
+    "occupation": "Recruiter",
+    "income": "$27099.57",
+    "religion": "Japanese",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 28,
+    "occupation": "Operator",
+    "income": "$71418.01",
+    "religion": "Cree",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 34,
+    "occupation": "Cost Accountant",
+    "income": "$10561.29",
+    "religion": "Cuban",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 51,
+    "occupation": "Sales Representative",
+    "income": "$95631.32",
+    "religion": "Sioux",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 28,
+    "occupation": "Cost Accountant",
+    "income": "$64327.92",
+    "religion": "Pueblo",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 59,
+    "occupation": "Recruiting Manager",
+    "income": "$45132.23",
+    "religion": "Argentinian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 76,
+    "occupation": "Dental Hygienist",
+    "income": "$52659.96",
+    "religion": "Indonesian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 69,
+    "occupation": "Project Manager",
+    "income": "$89184.76",
+    "religion": "Colville",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 49,
+    "occupation": "Junior Executive",
+    "income": "$81161.47",
+    "religion": "Chamorro",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 81,
+    "occupation": "Marketing Assistant",
+    "income": "$44336.13",
+    "religion": "Malaysian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 73,
+    "occupation": "Compensation Analyst",
+    "income": "$75178.82",
+    "religion": "Peruvian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 44,
+    "occupation": "Marketing Manager",
+    "income": "$25618.82",
+    "religion": "Guamanian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 89,
+    "occupation": "Information Systems Manager",
+    "income": "$55692.68",
+    "religion": "Colombian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 30,
+    "occupation": "Automation Specialist IV",
+    "income": "$23375.59",
+    "religion": "Ute",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 50,
+    "occupation": "VP Sales",
+    "income": "$53191.08",
+    "religion": "Asian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 76,
+    "occupation": "Teacher",
+    "income": "$46815.04",
+    "religion": "Colville",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 25,
+    "occupation": "Financial Analyst",
+    "income": "$70044.22",
+    "religion": "Central American",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 68,
+    "occupation": "Quality Engineer",
+    "income": "$77746.86",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 68,
+    "occupation": "Assistant Media Planner",
+    "income": "$27072.92",
+    "religion": "Tlingit-Haida",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 49,
+    "occupation": "Safety Technician II",
+    "income": "$21014.15",
+    "religion": "Menominee",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 70,
+    "occupation": "Developer I",
+    "income": "$41186.67",
+    "religion": "Indonesian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 64,
+    "occupation": "Editor",
+    "income": "$39594.30",
+    "religion": "Costa Rican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 65,
+    "occupation": "Quality Control Specialist",
+    "income": "$92991.98",
+    "religion": "Samoan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 77,
+    "occupation": "VP Marketing",
+    "income": "$81576.89",
+    "religion": "Yaqui",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 73,
+    "occupation": "Quality Control Specialist",
+    "income": "$90648.25",
+    "religion": "Japanese",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 15,
+    "occupation": "Geological Engineer",
+    "income": "$87832.02",
+    "religion": "Indonesian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 30,
+    "occupation": "Financial Analyst",
+    "income": "$83749.91",
+    "religion": "White",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 62,
+    "occupation": "Research Associate",
+    "income": "$86058.46",
+    "religion": "Cuban",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 70,
+    "occupation": "Data Coordiator",
+    "income": "$81346.57",
+    "religion": "Blackfeet",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 28,
+    "occupation": "Nurse",
+    "income": "$87802.41",
+    "religion": "Eskimo",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 57,
+    "occupation": "Software Consultant",
+    "income": "$93579.95",
+    "religion": "Iroquois",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 83,
+    "occupation": "Administrative Assistant II",
+    "income": "$52779.14",
+    "religion": "Creek",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 34,
+    "occupation": "Junior Executive",
+    "income": "$30583.33",
+    "religion": "American Indian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 30,
+    "occupation": "Programmer Analyst III",
+    "income": "$55008.36",
+    "religion": "Asian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 87,
+    "occupation": "Legal Assistant",
+    "income": "$99841.81",
+    "religion": "Thai",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 49,
+    "occupation": "Associate Professor",
+    "income": "$41190.88",
+    "religion": "Costa Rican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 43,
+    "occupation": "Professor",
+    "income": "$51568.66",
+    "religion": "South American",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 82,
+    "occupation": "Executive Secretary",
+    "income": "$40620.41",
+    "religion": "Delaware",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 37,
+    "occupation": "Sales Associate",
+    "income": "$27654.26",
+    "religion": "Malaysian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 44,
+    "occupation": "GIS Technical Architect",
+    "income": "$98941.41",
+    "religion": "Ecuadorian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 87,
+    "occupation": "Health Coach IV",
+    "income": "$87766.95",
+    "religion": "Chamorro",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 47,
+    "occupation": "Project Manager",
+    "income": "$85727.89",
+    "religion": "Comanche",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 27,
+    "occupation": "GIS Technical Architect",
+    "income": "$94239.00",
+    "religion": "Houma",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 57,
+    "occupation": "Civil Engineer",
+    "income": "$79953.04",
+    "religion": "Thai",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 37,
+    "occupation": "Financial Advisor",
+    "income": "$28656.23",
+    "religion": "Asian Indian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 90,
+    "occupation": "Structural Engineer",
+    "income": "$84298.17",
+    "religion": "American Indian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 60,
+    "occupation": "Environmental Tech",
+    "income": "$86376.92",
+    "religion": "Blackfeet",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 38,
+    "occupation": "VP Product Management",
+    "income": "$77831.90",
+    "religion": "Fijian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 45,
+    "occupation": "Physical Therapy Assistant",
+    "income": "$75630.21",
+    "religion": "Korean",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 72,
+    "occupation": "Financial Analyst",
+    "income": "$42166.96",
+    "religion": "Korean",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 25,
+    "occupation": "Help Desk Technician",
+    "income": "$96801.32",
+    "religion": "Guamanian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 67,
+    "occupation": "Sales Representative",
+    "income": "$57970.48",
+    "religion": "Puget Sound Salish",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 27,
+    "occupation": "Technical Writer",
+    "income": "$79755.58",
+    "religion": "Hmong",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 21,
+    "occupation": "Physical Therapy Assistant",
+    "income": "$60307.44",
+    "religion": "Cherokee",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 68,
+    "occupation": "Staff Scientist",
+    "income": "$19486.12",
+    "religion": "Navajo",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 26,
+    "occupation": "Recruiter",
+    "income": "$95885.22",
+    "religion": "Ute",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 58,
+    "occupation": "Geologist IV",
+    "income": "$78760.17",
+    "religion": "Chickasaw",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 75,
+    "occupation": "Assistant Professor",
+    "income": "$83000.28",
+    "religion": "Asian Indian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 47,
+    "occupation": "VP Quality Control",
+    "income": "$42598.68",
+    "religion": "Filipino",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 78,
+    "occupation": "Engineer IV",
+    "income": "$46590.63",
+    "religion": "Melanesian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 40,
+    "occupation": "Legal Assistant",
+    "income": "$58129.82",
+    "religion": "Fijian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 80,
+    "occupation": "Marketing Manager",
+    "income": "$36245.92",
+    "religion": "Sioux",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 43,
+    "occupation": "GIS Technical Architect",
+    "income": "$22177.65",
+    "religion": "Comanche",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 15,
+    "occupation": "Help Desk Technician",
+    "income": "$19147.03",
+    "religion": "Pima",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 73,
+    "occupation": "Staff Scientist",
+    "income": "$62040.01",
+    "religion": "Cuban",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 62,
+    "occupation": "Biostatistician II",
+    "income": "$67343.23",
+    "religion": "Mexican",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 79,
+    "occupation": "Registered Nurse",
+    "income": "$95487.37",
+    "religion": "Alaska Native",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 86,
+    "occupation": "Administrative Officer",
+    "income": "$24732.45",
+    "religion": "Sri Lankan",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 29,
+    "occupation": "Account Representative I",
+    "income": "$59277.68",
+    "religion": "Spaniard",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 28,
+    "occupation": "Design Engineer",
+    "income": "$33240.81",
+    "religion": "Paraguayan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 76,
+    "occupation": "Occupational Therapist",
+    "income": "$89818.79",
+    "religion": "Japanese",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 71,
+    "occupation": "Director of Sales",
+    "income": "$30395.41",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 60,
+    "occupation": "Programmer Analyst IV",
+    "income": "$20973.59",
+    "religion": "Native Hawaiian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 31,
+    "occupation": "Senior Editor",
+    "income": "$68938.38",
+    "religion": "Lumbee",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 77,
+    "occupation": "Automation Specialist I",
+    "income": "$30076.53",
+    "religion": "Asian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 22,
+    "occupation": "Staff Accountant I",
+    "income": "$53118.54",
+    "religion": "Peruvian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 77,
+    "occupation": "Statistician III",
+    "income": "$85627.35",
+    "religion": "Filipino",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 38,
+    "occupation": "Internal Auditor",
+    "income": "$15658.52",
+    "religion": "Venezuelan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 49,
+    "occupation": "Computer Systems Analyst I",
+    "income": "$57853.48",
+    "religion": "Korean",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 76,
+    "occupation": "Professor",
+    "income": "$42583.34",
+    "religion": "Yaqui",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 71,
+    "occupation": "Administrative Assistant IV",
+    "income": "$79146.94",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 61,
+    "occupation": "VP Quality Control",
+    "income": "$40223.37",
+    "religion": "Blackfeet",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 69,
+    "occupation": "VP Marketing",
+    "income": "$12948.08",
+    "religion": "Bangladeshi",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 65,
+    "occupation": "Tax Accountant",
+    "income": "$35315.33",
+    "religion": "Pima",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 75,
+    "occupation": "Help Desk Operator",
+    "income": "$54348.19",
+    "religion": "Choctaw",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 56,
+    "occupation": "Senior Editor",
+    "income": "$95685.63",
+    "religion": "Sioux",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 62,
+    "occupation": "Physical Therapy Assistant",
+    "income": "$39041.97",
+    "religion": "Japanese",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 34,
+    "occupation": "Nuclear Power Engineer",
+    "income": "$85470.59",
+    "religion": "Asian Indian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 50,
+    "occupation": "Human Resources Manager",
+    "income": "$94803.93",
+    "religion": "Central American",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 22,
+    "occupation": "Civil Engineer",
+    "income": "$99531.34",
+    "religion": "White",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 43,
+    "occupation": "Database Administrator I",
+    "income": "$30051.17",
+    "religion": "Bangladeshi",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 85,
+    "occupation": "Professor",
+    "income": "$53033.68",
+    "religion": "Yaqui",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 22,
+    "occupation": "Senior Financial Analyst",
+    "income": "$21735.93",
+    "religion": "Cambodian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 17,
+    "occupation": "Teacher",
+    "income": "$17059.75",
+    "religion": "Bolivian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 81,
+    "occupation": "Budget/Accounting Analyst IV",
+    "income": "$50616.64",
+    "religion": "Bangladeshi",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 50,
+    "occupation": "Quality Control Specialist",
+    "income": "$98159.93",
+    "religion": "Filipino",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 87,
+    "occupation": "Safety Technician II",
+    "income": "$34083.76",
+    "religion": "Malaysian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 25,
+    "occupation": "Desktop Support Technician",
+    "income": "$70350.58",
+    "religion": "Bangladeshi",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 73,
+    "occupation": "Chief Design Engineer",
+    "income": "$95369.75",
+    "religion": "Fijian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 54,
+    "occupation": "Accountant IV",
+    "income": "$33072.40",
+    "religion": "Apache",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 31,
+    "occupation": "Senior Sales Associate",
+    "income": "$35204.63",
+    "religion": "Native Hawaiian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 22,
+    "occupation": "Automation Specialist II",
+    "income": "$13774.08",
+    "religion": "Iroquois",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 75,
+    "occupation": "Mechanical Systems Engineer",
+    "income": "$71796.67",
+    "religion": "Paiute",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 80,
+    "occupation": "Account Coordinator",
+    "income": "$89075.71",
+    "religion": "Hmong",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 34,
+    "occupation": "Computer Systems Analyst IV",
+    "income": "$68981.67",
+    "religion": "Salvadoran",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 67,
+    "occupation": "Dental Hygienist",
+    "income": "$13085.49",
+    "religion": "Native Hawaiian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 38,
+    "occupation": "Account Representative II",
+    "income": "$16162.05",
+    "religion": "Chippewa",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 66,
+    "occupation": "Data Coordiator",
+    "income": "$88297.53",
+    "religion": "Osage",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 62,
+    "occupation": "Data Coordiator",
+    "income": "$86017.59",
+    "religion": "Uruguayan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 24,
+    "occupation": "Nuclear Power Engineer",
+    "income": "$99966.96",
+    "religion": "American Indian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 44,
+    "occupation": "Physical Therapy Assistant",
+    "income": "$66118.89",
+    "religion": "Spaniard",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 80,
+    "occupation": "Civil Engineer",
+    "income": "$43030.53",
+    "religion": "Panamanian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 53,
+    "occupation": "Sales Representative",
+    "income": "$51980.61",
+    "religion": "Cheyenne",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 18,
+    "occupation": "Community Outreach Specialist",
+    "income": "$60596.26",
+    "religion": "Colombian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Biostatistician II",
+    "income": "$13625.38",
+    "religion": "Asian Indian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 22,
+    "occupation": "Structural Analysis Engineer",
+    "income": "$31153.69",
+    "religion": "Lumbee",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "occupation": "Technical Writer",
+    "income": "$25888.34",
+    "religion": "Alaska Native",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "occupation": "General Manager",
+    "income": "$13391.34",
+    "religion": "Ute",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 56,
+    "occupation": "Information Systems Manager",
+    "income": "$79284.23",
+    "religion": "Colville",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 78,
+    "occupation": "Social Worker",
+    "income": "$81223.37",
+    "religion": "Tohono O'Odham",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 32,
+    "occupation": "Senior Cost Accountant",
+    "income": "$79954.14",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 58,
+    "occupation": "Professor",
+    "income": "$86884.28",
+    "religion": "White",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 56,
+    "occupation": "Recruiting Manager",
+    "income": "$50977.32",
+    "religion": "Micronesian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 38,
+    "occupation": "Actuary",
+    "income": "$40283.40",
+    "religion": "Apache",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 87,
+    "occupation": "Financial Analyst",
+    "income": "$66541.10",
+    "religion": "Navajo",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 23,
+    "occupation": "Legal Assistant",
+    "income": "$95477.85",
+    "religion": "Choctaw",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 86,
+    "occupation": "Physical Therapy Assistant",
+    "income": "$14069.21",
+    "religion": "Pueblo",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 24,
+    "occupation": "Statistician II",
+    "income": "$41775.64",
+    "religion": "Ecuadorian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 71,
+    "occupation": "Senior Developer",
+    "income": "$30439.54",
+    "religion": "Ute",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 66,
+    "occupation": "Sales Associate",
+    "income": "$48275.08",
+    "religion": "Spaniard",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 34,
+    "occupation": "Health Coach II",
+    "income": "$31530.31",
+    "religion": "White",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 33,
+    "occupation": "Software Consultant",
+    "income": "$88740.10",
+    "religion": "Guamanian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 52,
+    "occupation": "Nuclear Power Engineer",
+    "income": "$15235.12",
+    "religion": "Aleut",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 80,
+    "occupation": "Staff Accountant III",
+    "income": "$70472.96",
+    "religion": "Uruguayan",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 64,
+    "occupation": "Senior Editor",
+    "income": "$86470.82",
+    "religion": "Chippewa",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 32,
+    "occupation": "VP Product Management",
+    "income": "$73220.37",
+    "religion": "Puerto Rican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 64,
+    "occupation": "Nurse Practicioner",
+    "income": "$29921.22",
+    "religion": "Yakama",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 69,
+    "occupation": "Analyst Programmer",
+    "income": "$46578.63",
+    "religion": "Pima",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 62,
+    "occupation": "Recruiting Manager",
+    "income": "$99803.30",
+    "religion": "Polynesian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 45,
+    "occupation": "Teacher",
+    "income": "$33715.92",
+    "religion": "Guamanian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 50,
+    "occupation": "Nuclear Power Engineer",
+    "income": "$23738.62",
+    "religion": "Japanese",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 42,
+    "occupation": "Administrative Officer",
+    "income": "$93711.65",
+    "religion": "Salvadoran",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 32,
+    "occupation": "Office Assistant I",
+    "income": "$11528.54",
+    "religion": "Apache",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 46,
+    "occupation": "Nurse Practicioner",
+    "income": "$60262.10",
+    "religion": "Samoan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 23,
+    "occupation": "Account Coordinator",
+    "income": "$30513.28",
+    "religion": "Bolivian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 56,
+    "occupation": "Senior Financial Analyst",
+    "income": "$40390.25",
+    "religion": "Aleut",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 35,
+    "occupation": "Operator",
+    "income": "$87282.11",
+    "religion": "Osage",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 47,
+    "occupation": "Food Chemist",
+    "income": "$22447.14",
+    "religion": "Cambodian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 32,
+    "occupation": "Programmer I",
+    "income": "$66617.38",
+    "religion": "Osage",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 19,
+    "occupation": "Senior Cost Accountant",
+    "income": "$68582.45",
+    "religion": "Honduran",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 20,
+    "occupation": "Accountant III",
+    "income": "$31338.00",
+    "religion": "Pima",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 77,
+    "occupation": "Director of Sales",
+    "income": "$72071.39",
+    "religion": "Crow",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 44,
+    "occupation": "Marketing Manager",
+    "income": "$13639.83",
+    "religion": "Ute",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 39,
+    "occupation": "Analyst Programmer",
+    "income": "$19405.60",
+    "religion": "Micronesian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Engineer III",
+    "income": "$80231.72",
+    "religion": "Mexican",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 55,
+    "occupation": "Financial Analyst",
+    "income": "$48431.52",
+    "religion": "Filipino",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 88,
+    "occupation": "Geological Engineer",
+    "income": "$92878.11",
+    "religion": "Creek",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 49,
+    "occupation": "Programmer Analyst IV",
+    "income": "$59052.46",
+    "religion": "White",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 67,
+    "occupation": "Information Systems Manager",
+    "income": "$75779.27",
+    "religion": "Melanesian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 23,
+    "occupation": "Accounting Assistant III",
+    "income": "$11527.33",
+    "religion": "Peruvian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 82,
+    "occupation": "Engineer II",
+    "income": "$22640.32",
+    "religion": "Osage",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 63,
+    "occupation": "Media Manager III",
+    "income": "$35719.88",
+    "religion": "Navajo",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 65,
+    "occupation": "Technical Writer",
+    "income": "$84271.67",
+    "religion": "Yuman",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 15,
+    "occupation": "Project Manager",
+    "income": "$28625.75",
+    "religion": "Alaska Native",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 41,
+    "occupation": "Cost Accountant",
+    "income": "$16814.96",
+    "religion": "Latin American Indian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 67,
+    "occupation": "Web Designer IV",
+    "income": "$36901.29",
+    "religion": "Yuman",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 86,
+    "occupation": "VP Marketing",
+    "income": "$33898.45",
+    "religion": "Venezuelan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 63,
+    "occupation": "General Manager",
+    "income": "$66568.80",
+    "religion": "Tohono O'Odham",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Senior Quality Engineer",
+    "income": "$44170.98",
+    "religion": "Chickasaw",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 46,
+    "occupation": "VP Quality Control",
+    "income": "$44073.33",
+    "religion": "Tohono O'Odham",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 28,
+    "occupation": "Senior Sales Associate",
+    "income": "$94546.00",
+    "religion": "Choctaw",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 64,
+    "occupation": "Software Consultant",
+    "income": "$63094.08",
+    "religion": "Tongan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 29,
+    "occupation": "Software Engineer I",
+    "income": "$25034.53",
+    "religion": "Japanese",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 34,
+    "occupation": "Chief Design Engineer",
+    "income": "$72771.23",
+    "religion": "Puerto Rican",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 62,
+    "occupation": "Project Manager",
+    "income": "$70571.30",
+    "religion": "Tongan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 41,
+    "occupation": "Sales Associate",
+    "income": "$64258.42",
+    "religion": "Pima",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 89,
+    "occupation": "Physical Therapy Assistant",
+    "income": "$70909.77",
+    "religion": "Honduran",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 82,
+    "occupation": "VP Quality Control",
+    "income": "$88901.26",
+    "religion": "Chamorro",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 26,
+    "occupation": "Payment Adjustment Coordinator",
+    "income": "$91966.45",
+    "religion": "Cree",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 44,
+    "occupation": "Senior Editor",
+    "income": "$83099.28",
+    "religion": "Seminole",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 20,
+    "occupation": "Accounting Assistant II",
+    "income": "$75486.99",
+    "religion": "Korean",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 51,
+    "occupation": "Food Chemist",
+    "income": "$22342.93",
+    "religion": "Black or African American",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 76,
+    "occupation": "Account Representative IV",
+    "income": "$53563.25",
+    "religion": "Cuban",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 72,
+    "occupation": "Biostatistician I",
+    "income": "$26458.10",
+    "religion": "Alaska Native",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 53,
+    "occupation": "Desktop Support Technician",
+    "income": "$63950.81",
+    "religion": "Eskimo",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 52,
+    "occupation": "Marketing Assistant",
+    "income": "$99397.11",
+    "religion": "Paiute",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 75,
+    "occupation": "Accounting Assistant IV",
+    "income": "$41454.78",
+    "religion": "Tongan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 46,
+    "occupation": "Paralegal",
+    "income": "$81999.05",
+    "religion": "Asian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 88,
+    "occupation": "Help Desk Technician",
+    "income": "$98904.98",
+    "religion": "Bangladeshi",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 89,
+    "occupation": "Geological Engineer",
+    "income": "$36615.38",
+    "religion": "Potawatomi",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 31,
+    "occupation": "Quality Engineer",
+    "income": "$68516.20",
+    "religion": "Chippewa",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 45,
+    "occupation": "Food Chemist",
+    "income": "$86132.62",
+    "religion": "Chinese",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 53,
+    "occupation": "Account Coordinator",
+    "income": "$73407.86",
+    "religion": "Latin American Indian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 76,
+    "occupation": "Executive Secretary",
+    "income": "$18134.99",
+    "religion": "South American",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 43,
+    "occupation": "GIS Technical Architect",
+    "income": "$18536.21",
+    "religion": "Polynesian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 36,
+    "occupation": "Product Engineer",
+    "income": "$63022.50",
+    "religion": "Puerto Rican",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 61,
+    "occupation": "Registered Nurse",
+    "income": "$16661.76",
+    "religion": "Alaskan Athabascan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 83,
+    "occupation": "Senior Editor",
+    "income": "$98805.75",
+    "religion": "Pakistani",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 74,
+    "occupation": "Civil Engineer",
+    "income": "$84713.79",
+    "religion": "Samoan",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 82,
+    "occupation": "GIS Technical Architect",
+    "income": "$58762.52",
+    "religion": "Tohono O'Odham",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 85,
+    "occupation": "Analog Circuit Design manager",
+    "income": "$19207.32",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 40,
+    "occupation": "Legal Assistant",
+    "income": "$32715.62",
+    "religion": "Native Hawaiian and Other Pacific Islander (NHPI)",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 85,
+    "occupation": "Research Associate",
+    "income": "$29510.82",
+    "religion": "Samoan",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 49,
+    "occupation": "Teacher",
+    "income": "$83822.92",
+    "religion": "Mexican",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 34,
+    "occupation": "Technical Writer",
+    "income": "$65942.10",
+    "religion": "Crow",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 17,
+    "occupation": "Budget/Accounting Analyst II",
+    "income": "$39242.47",
+    "religion": "Lumbee",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 39,
+    "occupation": "Environmental Tech",
+    "income": "$28498.60",
+    "religion": "South American",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 45,
+    "occupation": "Accountant III",
+    "income": "$62291.91",
+    "religion": "Choctaw",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 52,
+    "occupation": "Food Chemist",
+    "income": "$94528.45",
+    "religion": "Native Hawaiian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 72,
+    "occupation": "Project Manager",
+    "income": "$72454.35",
+    "religion": "Sri Lankan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 40,
+    "occupation": "Physical Therapy Assistant",
+    "income": "$30605.23",
+    "religion": "Cree",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 73,
+    "occupation": "Research Assistant I",
+    "income": "$30339.89",
+    "religion": "Apache",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 64,
+    "occupation": "Payment Adjustment Coordinator",
+    "income": "$57273.05",
+    "religion": "Bolivian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 64,
+    "occupation": "Financial Advisor",
+    "income": "$44936.08",
+    "religion": "Navajo",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 57,
+    "occupation": "Senior Sales Associate",
+    "income": "$94388.94",
+    "religion": "Guamanian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 84,
+    "occupation": "Actuary",
+    "income": "$70870.89",
+    "religion": "Puget Sound Salish",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 74,
+    "occupation": "Teacher",
+    "income": "$14115.73",
+    "religion": "Pakistani",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 85,
+    "occupation": "Pharmacist",
+    "income": "$31616.72",
+    "religion": "Paiute",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 89,
+    "occupation": "Budget/Accounting Analyst II",
+    "income": "$10901.10",
+    "religion": "Micronesian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 17,
+    "occupation": "Executive Secretary",
+    "income": "$33211.13",
+    "religion": "Eskimo",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 20,
+    "occupation": "Technical Writer",
+    "income": "$33960.54",
+    "religion": "Chilean",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 68,
+    "occupation": "Analog Circuit Design manager",
+    "income": "$99378.26",
+    "religion": "Thai",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 74,
+    "occupation": "Engineer I",
+    "income": "$31667.59",
+    "religion": "Native Hawaiian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 63,
+    "occupation": "General Manager",
+    "income": "$20713.84",
+    "religion": "Native Hawaiian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 38,
+    "occupation": "Community Outreach Specialist",
+    "income": "$86245.46",
+    "religion": "Houma",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 74,
+    "occupation": "Staff Scientist",
+    "income": "$39493.30",
+    "religion": "Native Hawaiian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 70,
+    "occupation": "Assistant Manager",
+    "income": "$68093.51",
+    "religion": "Pima",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 83,
+    "occupation": "Legal Assistant",
+    "income": "$68826.12",
+    "religion": "Japanese",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 80,
+    "occupation": "Statistician III",
+    "income": "$78129.73",
+    "religion": "Creek",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 36,
+    "occupation": "Civil Engineer",
+    "income": "$76402.00",
+    "religion": "Cherokee",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 53,
+    "occupation": "Teacher",
+    "income": "$83332.32",
+    "religion": "Taiwanese",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 29,
+    "occupation": "Nuclear Power Engineer",
+    "income": "$40906.75",
+    "religion": "Comanche",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 32,
+    "occupation": "Speech Pathologist",
+    "income": "$95324.51",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 38,
+    "occupation": "Geological Engineer",
+    "income": "$87474.89",
+    "religion": "Panamanian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Assistant Media Planner",
+    "income": "$24983.08",
+    "religion": "Argentinian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 23,
+    "occupation": "Assistant Manager",
+    "income": "$25545.70",
+    "religion": "Micronesian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 71,
+    "occupation": "Dental Hygienist",
+    "income": "$76580.03",
+    "religion": "Mexican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 44,
+    "occupation": "Recruiting Manager",
+    "income": "$86400.84",
+    "religion": "Chippewa",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 56,
+    "occupation": "Senior Quality Engineer",
+    "income": "$51765.92",
+    "religion": "Houma",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 15,
+    "occupation": "Desktop Support Technician",
+    "income": "$39441.28",
+    "religion": "Peruvian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 57,
+    "occupation": "Librarian",
+    "income": "$65635.03",
+    "religion": "Delaware",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 41,
+    "occupation": "Media Manager II",
+    "income": "$27613.63",
+    "religion": "Cuban",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 73,
+    "occupation": "Software Test Engineer II",
+    "income": "$79844.92",
+    "religion": "Argentinian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 71,
+    "occupation": "Web Designer II",
+    "income": "$42970.73",
+    "religion": "Laotian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 49,
+    "occupation": "Computer Systems Analyst IV",
+    "income": "$18139.58",
+    "religion": "Colville",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 88,
+    "occupation": "Community Outreach Specialist",
+    "income": "$47748.89",
+    "religion": "Lumbee",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 48,
+    "occupation": "Account Executive",
+    "income": "$74618.88",
+    "religion": "Potawatomi",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 52,
+    "occupation": "Assistant Media Planner",
+    "income": "$33479.49",
+    "religion": "Spaniard",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 63,
+    "occupation": "Nuclear Power Engineer",
+    "income": "$94994.00",
+    "religion": "Japanese",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 35,
+    "occupation": "Chemical Engineer",
+    "income": "$17656.78",
+    "religion": "Delaware",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 74,
+    "occupation": "VP Quality Control",
+    "income": "$45931.93",
+    "religion": "Pueblo",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 41,
+    "occupation": "Desktop Support Technician",
+    "income": "$25969.24",
+    "religion": "Venezuelan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 25,
+    "occupation": "Human Resources Manager",
+    "income": "$15242.09",
+    "religion": "Polynesian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 62,
+    "occupation": "Dental Hygienist",
+    "income": "$52050.81",
+    "religion": "Spaniard",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 81,
+    "occupation": "Statistician II",
+    "income": "$98614.14",
+    "religion": "Osage",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 21,
+    "occupation": "Operator",
+    "income": "$69108.79",
+    "religion": "Blackfeet",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 81,
+    "occupation": "Technical Writer",
+    "income": "$89445.80",
+    "religion": "Melanesian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 51,
+    "occupation": "Data Coordiator",
+    "income": "$43328.41",
+    "religion": "Pima",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 52,
+    "occupation": "Food Chemist",
+    "income": "$93122.82",
+    "religion": "Tohono O'Odham",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 60,
+    "occupation": "Junior Executive",
+    "income": "$78363.08",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 48,
+    "occupation": "Electrical Engineer",
+    "income": "$67516.78",
+    "religion": "Black or African American",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 31,
+    "occupation": "Design Engineer",
+    "income": "$82997.29",
+    "religion": "Thai",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 57,
+    "occupation": "Recruiting Manager",
+    "income": "$42539.16",
+    "religion": "Latin American Indian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 21,
+    "occupation": "Assistant Manager",
+    "income": "$31182.74",
+    "religion": "Hmong",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 72,
+    "occupation": "Quality Control Specialist",
+    "income": "$90131.06",
+    "religion": "Black or African American",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 77,
+    "occupation": "Environmental Tech",
+    "income": "$26852.01",
+    "religion": "Chippewa",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 77,
+    "occupation": "Help Desk Technician",
+    "income": "$55199.21",
+    "religion": "Choctaw",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 54,
+    "occupation": "Community Outreach Specialist",
+    "income": "$77322.36",
+    "religion": "Hmong",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 74,
+    "occupation": "Programmer Analyst III",
+    "income": "$92719.95",
+    "religion": "Menominee",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 15,
+    "occupation": "Chief Design Engineer",
+    "income": "$73901.53",
+    "religion": "Melanesian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 32,
+    "occupation": "Chemical Engineer",
+    "income": "$78578.48",
+    "religion": "Paraguayan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 86,
+    "occupation": "Biostatistician IV",
+    "income": "$51370.22",
+    "religion": "Sioux",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 78,
+    "occupation": "Quality Engineer",
+    "income": "$36451.97",
+    "religion": "Polynesian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 15,
+    "occupation": "GIS Technical Architect",
+    "income": "$39597.62",
+    "religion": "American Indian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 15,
+    "occupation": "Financial Analyst",
+    "income": "$40605.00",
+    "religion": "Navajo",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 48,
+    "occupation": "Statistician IV",
+    "income": "$44877.78",
+    "religion": "Pakistani",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 61,
+    "occupation": "Quality Engineer",
+    "income": "$15177.37",
+    "religion": "Indonesian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 75,
+    "occupation": "Statistician IV",
+    "income": "$48900.31",
+    "religion": "Nicaraguan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 50,
+    "occupation": "Registered Nurse",
+    "income": "$52116.87",
+    "religion": "Taiwanese",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 43,
+    "occupation": "Accounting Assistant I",
+    "income": "$90696.69",
+    "religion": "Crow",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 70,
+    "occupation": "Director of Sales",
+    "income": "$75289.63",
+    "religion": "Central American",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 45,
+    "occupation": "Help Desk Technician",
+    "income": "$94659.21",
+    "religion": "Bolivian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 43,
+    "occupation": "Director of Sales",
+    "income": "$17426.00",
+    "religion": "Pakistani",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 78,
+    "occupation": "Systems Administrator III",
+    "income": "$84817.46",
+    "religion": "Aleut",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 56,
+    "occupation": "Research Nurse",
+    "income": "$98712.65",
+    "religion": "Black or African American",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 16,
+    "occupation": "Project Manager",
+    "income": "$99248.82",
+    "religion": "Cambodian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 25,
+    "occupation": "Software Consultant",
+    "income": "$48313.63",
+    "religion": "Tongan",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 23,
+    "occupation": "Nurse",
+    "income": "$77918.72",
+    "religion": "Latin American Indian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 36,
+    "occupation": "Media Manager IV",
+    "income": "$27247.18",
+    "religion": "Bangladeshi",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 83,
+    "occupation": "Sales Associate",
+    "income": "$87659.96",
+    "religion": "Alaska Native",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 48,
+    "occupation": "Structural Analysis Engineer",
+    "income": "$72128.49",
+    "religion": "Pima",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 22,
+    "occupation": "Registered Nurse",
+    "income": "$80397.25",
+    "religion": "Cherokee",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 66,
+    "occupation": "Community Outreach Specialist",
+    "income": "$70185.88",
+    "religion": "Tongan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "occupation": "Administrative Officer",
+    "income": "$74453.70",
+    "religion": "Asian Indian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 32,
+    "occupation": "Community Outreach Specialist",
+    "income": "$48097.39",
+    "religion": "Apache",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 16,
+    "occupation": "Librarian",
+    "income": "$85494.35",
+    "religion": "Crow",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 70,
+    "occupation": "Teacher",
+    "income": "$69098.44",
+    "religion": "Puerto Rican",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 70,
+    "occupation": "Account Executive",
+    "income": "$21039.47",
+    "religion": "Native Hawaiian and Other Pacific Islander (NHPI)",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 60,
+    "occupation": "VP Marketing",
+    "income": "$39649.17",
+    "religion": "Indonesian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 71,
+    "occupation": "Electrical Engineer",
+    "income": "$16457.62",
+    "religion": "Colville",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 68,
+    "occupation": "Research Nurse",
+    "income": "$57068.63",
+    "religion": "Thai",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 25,
+    "occupation": "Information Systems Manager",
+    "income": "$39885.03",
+    "religion": "Spaniard",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Design Engineer",
+    "income": "$62195.10",
+    "religion": "Argentinian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 58,
+    "occupation": "Office Assistant III",
+    "income": "$94798.28",
+    "religion": "South American",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 88,
+    "occupation": "Recruiter",
+    "income": "$43463.90",
+    "religion": "Malaysian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 81,
+    "occupation": "Technical Writer",
+    "income": "$81724.44",
+    "religion": "Costa Rican",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 40,
+    "occupation": "Analyst Programmer",
+    "income": "$36461.70",
+    "religion": "Lumbee",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 15,
+    "occupation": "Safety Technician I",
+    "income": "$76446.28",
+    "religion": "Sri Lankan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 40,
+    "occupation": "Registered Nurse",
+    "income": "$87909.20",
+    "religion": "Hmong",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 20,
+    "occupation": "Media Manager III",
+    "income": "$59889.36",
+    "religion": "Potawatomi",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 35,
+    "occupation": "VP Product Management",
+    "income": "$48242.22",
+    "religion": "Taiwanese",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "occupation": "VP Accounting",
+    "income": "$55421.27",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 86,
+    "occupation": "Business Systems Development Analyst",
+    "income": "$32411.20",
+    "religion": "Ute",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 31,
+    "occupation": "Web Developer IV",
+    "income": "$84805.70",
+    "religion": "Houma",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 81,
+    "occupation": "Engineer III",
+    "income": "$50033.99",
+    "religion": "Lumbee",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 16,
+    "occupation": "Business Systems Development Analyst",
+    "income": "$72401.66",
+    "religion": "South American",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 43,
+    "occupation": "Social Worker",
+    "income": "$86379.43",
+    "religion": "Native Hawaiian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 75,
+    "occupation": "Quality Engineer",
+    "income": "$48331.99",
+    "religion": "Cheyenne",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 72,
+    "occupation": "Help Desk Operator",
+    "income": "$38338.57",
+    "religion": "Black or African American",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 82,
+    "occupation": "Web Developer IV",
+    "income": "$54845.54",
+    "religion": "Sioux",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 73,
+    "occupation": "Staff Accountant II",
+    "income": "$90322.15",
+    "religion": "Puerto Rican",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 79,
+    "occupation": "Registered Nurse",
+    "income": "$67396.00",
+    "religion": "Hmong",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 26,
+    "occupation": "Tax Accountant",
+    "income": "$85745.88",
+    "religion": "Chamorro",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 41,
+    "occupation": "Web Developer III",
+    "income": "$93715.85",
+    "religion": "White",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 47,
+    "occupation": "Speech Pathologist",
+    "income": "$58219.87",
+    "religion": "Peruvian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 36,
+    "occupation": "Design Engineer",
+    "income": "$63034.66",
+    "religion": "Asian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 47,
+    "occupation": "Staff Scientist",
+    "income": "$90682.76",
+    "religion": "Guamanian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 47,
+    "occupation": "Budget/Accounting Analyst I",
+    "income": "$67405.10",
+    "religion": "Cree",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 36,
+    "occupation": "Analog Circuit Design manager",
+    "income": "$36312.07",
+    "religion": "Alaska Native",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 29,
+    "occupation": "Automation Specialist I",
+    "income": "$45172.77",
+    "religion": "Comanche",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 54,
+    "occupation": "Librarian",
+    "income": "$76065.18",
+    "religion": "Hmong",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 89,
+    "occupation": "Geologist I",
+    "income": "$19547.95",
+    "religion": "Chippewa",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 31,
+    "occupation": "VP Marketing",
+    "income": "$91954.31",
+    "religion": "Guatemalan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 78,
+    "occupation": "Software Engineer IV",
+    "income": "$87419.05",
+    "religion": "Seminole",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 87,
+    "occupation": "Senior Financial Analyst",
+    "income": "$52161.74",
+    "religion": "Bolivian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 72,
+    "occupation": "Biostatistician III",
+    "income": "$31508.81",
+    "religion": "Panamanian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 66,
+    "occupation": "General Manager",
+    "income": "$47199.71",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 47,
+    "occupation": "Geologist IV",
+    "income": "$22105.41",
+    "religion": "Potawatomi",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 18,
+    "occupation": "Dental Hygienist",
+    "income": "$15133.25",
+    "religion": "Cheyenne",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 74,
+    "occupation": "Recruiter",
+    "income": "$96698.28",
+    "religion": "South American",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 74,
+    "occupation": "Staff Accountant III",
+    "income": "$88686.69",
+    "religion": "Cree",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 77,
+    "occupation": "Programmer Analyst IV",
+    "income": "$29790.27",
+    "religion": "American Indian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 40,
+    "occupation": "Nurse Practicioner",
+    "income": "$93059.30",
+    "religion": "Houma",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 85,
+    "occupation": "Senior Quality Engineer",
+    "income": "$77392.39",
+    "religion": "Filipino",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 22,
+    "occupation": "Technical Writer",
+    "income": "$74866.76",
+    "religion": "Dominican (Dominican Republic)",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 18,
+    "occupation": "Information Systems Manager",
+    "income": "$27474.84",
+    "religion": "Pueblo",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 29,
+    "occupation": "GIS Technical Architect",
+    "income": "$49508.19",
+    "religion": "Tongan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 52,
+    "occupation": "Senior Cost Accountant",
+    "income": "$45173.05",
+    "religion": "Yuman",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 43,
+    "occupation": "Statistician II",
+    "income": "$96959.47",
+    "religion": "Pakistani",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 60,
+    "occupation": "Software Engineer IV",
+    "income": "$62600.12",
+    "religion": "Pakistani",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 68,
+    "occupation": "Dental Hygienist",
+    "income": "$69639.72",
+    "religion": "Yakama",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 79,
+    "occupation": "Account Executive",
+    "income": "$33163.36",
+    "religion": "Chilean",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 86,
+    "occupation": "VP Marketing",
+    "income": "$68176.99",
+    "religion": "Central American",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 66,
+    "occupation": "Information Systems Manager",
+    "income": "$23224.63",
+    "religion": "Uruguayan",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 38,
+    "occupation": "VP Accounting",
+    "income": "$35753.83",
+    "religion": "South American",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 56,
+    "occupation": "Developer IV",
+    "income": "$69950.08",
+    "religion": "Blackfeet",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 48,
+    "occupation": "Executive Secretary",
+    "income": "$86773.18",
+    "religion": "Korean",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 38,
+    "occupation": "Environmental Tech",
+    "income": "$18143.08",
+    "religion": "Nicaraguan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 87,
+    "occupation": "VP Accounting",
+    "income": "$12207.60",
+    "religion": "Melanesian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 86,
+    "occupation": "GIS Technical Architect",
+    "income": "$78243.53",
+    "religion": "Black or African American",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 67,
+    "occupation": "VP Marketing",
+    "income": "$22123.36",
+    "religion": "Potawatomi",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 80,
+    "occupation": "Recruiting Manager",
+    "income": "$58268.33",
+    "religion": "Seminole",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 27,
+    "occupation": "GIS Technical Architect",
+    "income": "$35841.73",
+    "religion": "Chamorro",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 51,
+    "occupation": "Web Developer II",
+    "income": "$50365.14",
+    "religion": "Sioux",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 34,
+    "occupation": "Design Engineer",
+    "income": "$46816.62",
+    "religion": "Chilean",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 71,
+    "occupation": "Senior Quality Engineer",
+    "income": "$58632.15",
+    "religion": "Crow",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 40,
+    "occupation": "Environmental Specialist",
+    "income": "$25974.84",
+    "religion": "Mexican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 75,
+    "occupation": "Administrative Assistant IV",
+    "income": "$50074.01",
+    "religion": "Panamanian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 28,
+    "occupation": "Structural Engineer",
+    "income": "$93095.74",
+    "religion": "Seminole",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 51,
+    "occupation": "Account Coordinator",
+    "income": "$15084.96",
+    "religion": "Shoshone",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 78,
+    "occupation": "Mechanical Systems Engineer",
+    "income": "$73257.25",
+    "religion": "Comanche",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 65,
+    "occupation": "Product Engineer",
+    "income": "$47002.47",
+    "religion": "Guatemalan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 75,
+    "occupation": "Senior Developer",
+    "income": "$84646.18",
+    "religion": "Navajo",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 17,
+    "occupation": "Account Representative II",
+    "income": "$52395.55",
+    "religion": "Mexican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 43,
+    "occupation": "Account Representative II",
+    "income": "$15188.35",
+    "religion": "Seminole",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 26,
+    "occupation": "Programmer II",
+    "income": "$26880.99",
+    "religion": "Native Hawaiian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 67,
+    "occupation": "Director of Sales",
+    "income": "$98887.45",
+    "religion": "Yakama",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 56,
+    "occupation": "Payment Adjustment Coordinator",
+    "income": "$56765.63",
+    "religion": "Eskimo",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 54,
+    "occupation": "Administrative Assistant I",
+    "income": "$29623.44",
+    "religion": "Guamanian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 35,
+    "occupation": "VP Accounting",
+    "income": "$25830.05",
+    "religion": "Honduran",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 66,
+    "occupation": "Research Associate",
+    "income": "$51879.35",
+    "religion": "South American",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 61,
+    "occupation": "Biostatistician I",
+    "income": "$79844.40",
+    "religion": "Eskimo",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 61,
+    "occupation": "Pharmacist",
+    "income": "$29487.95",
+    "religion": "Chamorro",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 22,
+    "occupation": "Professor",
+    "income": "$48729.31",
+    "religion": "Delaware",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 25,
+    "occupation": "VP Sales",
+    "income": "$98411.81",
+    "religion": "Choctaw",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 41,
+    "occupation": "Registered Nurse",
+    "income": "$25879.85",
+    "religion": "Fijian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 35,
+    "occupation": "Database Administrator III",
+    "income": "$35302.26",
+    "religion": "Puget Sound Salish",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 17,
+    "occupation": "Financial Analyst",
+    "income": "$26786.86",
+    "religion": "Costa Rican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 79,
+    "occupation": "Automation Specialist III",
+    "income": "$66323.29",
+    "religion": "Paraguayan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 51,
+    "occupation": "Biostatistician I",
+    "income": "$86018.91",
+    "religion": "Pueblo",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 23,
+    "occupation": "Environmental Specialist",
+    "income": "$64723.00",
+    "religion": "Thai",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 17,
+    "occupation": "Analyst Programmer",
+    "income": "$54627.09",
+    "religion": "Black or African American",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 73,
+    "occupation": "Paralegal",
+    "income": "$99293.28",
+    "religion": "Indonesian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 87,
+    "occupation": "Product Engineer",
+    "income": "$48344.22",
+    "religion": "Sioux",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 86,
+    "occupation": "Civil Engineer",
+    "income": "$24134.41",
+    "religion": "Choctaw",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 23,
+    "occupation": "Sales Representative",
+    "income": "$39422.13",
+    "religion": "Comanche",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 15,
+    "occupation": "Financial Analyst",
+    "income": "$53806.38",
+    "religion": "Tongan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 43,
+    "occupation": "Systems Administrator III",
+    "income": "$63572.54",
+    "religion": "Pima",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 51,
+    "occupation": "Recruiting Manager",
+    "income": "$69091.29",
+    "religion": "Delaware",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 85,
+    "occupation": "VP Marketing",
+    "income": "$10358.81",
+    "religion": "Apache",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 39,
+    "occupation": "Technical Writer",
+    "income": "$67052.89",
+    "religion": "Kiowa",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 72,
+    "occupation": "Nurse Practicioner",
+    "income": "$10101.74",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 47,
+    "occupation": "Web Developer IV",
+    "income": "$68755.48",
+    "religion": "Cambodian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 70,
+    "occupation": "Executive Secretary",
+    "income": "$12545.36",
+    "religion": "Panamanian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 85,
+    "occupation": "Sales Representative",
+    "income": "$30334.15",
+    "religion": "Eskimo",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 69,
+    "occupation": "Assistant Manager",
+    "income": "$32315.46",
+    "religion": "Nicaraguan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 59,
+    "occupation": "Administrative Assistant II",
+    "income": "$17942.38",
+    "religion": "Uruguayan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 70,
+    "occupation": "Systems Administrator IV",
+    "income": "$50883.23",
+    "religion": "Blackfeet",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 39,
+    "occupation": "VP Accounting",
+    "income": "$79477.48",
+    "religion": "Seminole",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 43,
+    "occupation": "Financial Analyst",
+    "income": "$60873.22",
+    "religion": "Yakama",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 86,
+    "occupation": "Analyst Programmer",
+    "income": "$20243.70",
+    "religion": "Argentinian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 24,
+    "occupation": "Developer IV",
+    "income": "$18521.32",
+    "religion": "Aleut",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 69,
+    "occupation": "Account Coordinator",
+    "income": "$73358.25",
+    "religion": "Cuban",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 30,
+    "occupation": "Quality Engineer",
+    "income": "$74884.01",
+    "religion": "Indonesian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 18,
+    "occupation": "Tax Accountant",
+    "income": "$86337.27",
+    "religion": "Laotian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 28,
+    "occupation": "Senior Quality Engineer",
+    "income": "$34583.12",
+    "religion": "Central American",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 42,
+    "occupation": "Recruiter",
+    "income": "$96326.23",
+    "religion": "Thai",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 74,
+    "occupation": "Community Outreach Specialist",
+    "income": "$68074.02",
+    "religion": "Cuban",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 87,
+    "occupation": "Registered Nurse",
+    "income": "$63275.42",
+    "religion": "Native Hawaiian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 40,
+    "occupation": "Help Desk Technician",
+    "income": "$74493.45",
+    "religion": "Nicaraguan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 45,
+    "occupation": "Account Coordinator",
+    "income": "$73525.67",
+    "religion": "Seminole",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Cost Accountant",
+    "income": "$94397.23",
+    "religion": "Korean",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 54,
+    "occupation": "Budget/Accounting Analyst III",
+    "income": "$67188.82",
+    "religion": "Guamanian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 60,
+    "occupation": "Professor",
+    "income": "$24372.21",
+    "religion": "Cree",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 19,
+    "occupation": "Database Administrator II",
+    "income": "$38803.60",
+    "religion": "Uruguayan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 41,
+    "occupation": "Editor",
+    "income": "$84626.33",
+    "religion": "Cheyenne",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 67,
+    "occupation": "Structural Engineer",
+    "income": "$54115.90",
+    "religion": "Iroquois",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 81,
+    "occupation": "Graphic Designer",
+    "income": "$16164.63",
+    "religion": "Bolivian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 38,
+    "occupation": "Financial Analyst",
+    "income": "$96231.29",
+    "religion": "Tongan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 45,
+    "occupation": "Marketing Manager",
+    "income": "$47690.76",
+    "religion": "Lumbee",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Software Engineer II",
+    "income": "$13270.20",
+    "religion": "Yuman",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 60,
+    "occupation": "Senior Editor",
+    "income": "$47493.17",
+    "religion": "Filipino",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 89,
+    "occupation": "Structural Analysis Engineer",
+    "income": "$21113.97",
+    "religion": "Fijian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 64,
+    "occupation": "Teacher",
+    "income": "$43214.20",
+    "religion": "Paiute",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 60,
+    "occupation": "Tax Accountant",
+    "income": "$72590.37",
+    "religion": "Colville",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 50,
+    "occupation": "Human Resources Assistant II",
+    "income": "$38502.19",
+    "religion": "Yuman",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 65,
+    "occupation": "Recruiter",
+    "income": "$62178.13",
+    "religion": "Cree",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 62,
+    "occupation": "Senior Cost Accountant",
+    "income": "$36879.46",
+    "religion": "Paraguayan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 24,
+    "occupation": "Budget/Accounting Analyst IV",
+    "income": "$12144.29",
+    "religion": "Aleut",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 50,
+    "occupation": "Cost Accountant",
+    "income": "$81412.66",
+    "religion": "Costa Rican",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 79,
+    "occupation": "Media Manager II",
+    "income": "$29071.76",
+    "religion": "Yakama",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 42,
+    "occupation": "Research Nurse",
+    "income": "$28010.72",
+    "religion": "Cherokee",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 79,
+    "occupation": "Database Administrator IV",
+    "income": "$70054.24",
+    "religion": "Ottawa",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 67,
+    "occupation": "Account Executive",
+    "income": "$76680.03",
+    "religion": "Colombian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 74,
+    "occupation": "Sales Associate",
+    "income": "$33077.87",
+    "religion": "Osage",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 17,
+    "occupation": "Editor",
+    "income": "$77479.04",
+    "religion": "Shoshone",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 66,
+    "occupation": "Account Coordinator",
+    "income": "$94172.95",
+    "religion": "Kiowa",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 28,
+    "occupation": "Chief Design Engineer",
+    "income": "$68528.52",
+    "religion": "Sioux",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 75,
+    "occupation": "Geological Engineer",
+    "income": "$28327.37",
+    "religion": "Mexican",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 57,
+    "occupation": "Business Systems Development Analyst",
+    "income": "$79527.09",
+    "religion": "Chinese",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 89,
+    "occupation": "Paralegal",
+    "income": "$17200.15",
+    "religion": "Delaware",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 15,
+    "occupation": "Research Nurse",
+    "income": "$97494.19",
+    "religion": "Creek",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 15,
+    "occupation": "Sales Associate",
+    "income": "$47357.10",
+    "religion": "Navajo",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 81,
+    "occupation": "VP Accounting",
+    "income": "$74494.13",
+    "religion": "Chilean",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 43,
+    "occupation": "Nurse",
+    "income": "$84751.59",
+    "religion": "Bangladeshi",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 40,
+    "occupation": "Sales Representative",
+    "income": "$79373.70",
+    "religion": "Sioux",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 57,
+    "occupation": "Staff Accountant IV",
+    "income": "$73576.54",
+    "religion": "Shoshone",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 49,
+    "occupation": "Computer Systems Analyst I",
+    "income": "$54767.22",
+    "religion": "Costa Rican",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 18,
+    "occupation": "Biostatistician III",
+    "income": "$55346.09",
+    "religion": "Guatemalan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 45,
+    "occupation": "Speech Pathologist",
+    "income": "$52463.28",
+    "religion": "Chippewa",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 20,
+    "occupation": "Clinical Specialist",
+    "income": "$53252.02",
+    "religion": "Apache",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 48,
+    "occupation": "Statistician III",
+    "income": "$64614.34",
+    "religion": "White",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 58,
+    "occupation": "Staff Scientist",
+    "income": "$88880.60",
+    "religion": "Pima",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 21,
+    "occupation": "Operator",
+    "income": "$37867.10",
+    "religion": "Central American",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 67,
+    "occupation": "Marketing Manager",
+    "income": "$41598.99",
+    "religion": "Houma",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 35,
+    "occupation": "Web Designer III",
+    "income": "$41133.62",
+    "religion": "Pakistani",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 16,
+    "occupation": "Programmer Analyst IV",
+    "income": "$37958.35",
+    "religion": "Colville",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 85,
+    "occupation": "Account Representative II",
+    "income": "$96798.81",
+    "religion": "Comanche",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 19,
+    "occupation": "Financial Advisor",
+    "income": "$95109.01",
+    "religion": "Ute",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 18,
+    "occupation": "Human Resources Assistant IV",
+    "income": "$28753.36",
+    "religion": "Filipino",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 15,
+    "occupation": "Assistant Media Planner",
+    "income": "$67143.34",
+    "religion": "Colville",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 66,
+    "occupation": "Chief Design Engineer",
+    "income": "$43325.91",
+    "religion": "Thai",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 63,
+    "occupation": "Web Developer IV",
+    "income": "$26731.15",
+    "religion": "Ecuadorian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 79,
+    "occupation": "Recruiting Manager",
+    "income": "$67746.95",
+    "religion": "Eskimo",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Structural Engineer",
+    "income": "$78866.05",
+    "religion": "Alaska Native",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 18,
+    "occupation": "Programmer Analyst I",
+    "income": "$88515.22",
+    "religion": "Ute",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 67,
+    "occupation": "Design Engineer",
+    "income": "$88088.73",
+    "religion": "Sri Lankan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 41,
+    "occupation": "Financial Advisor",
+    "income": "$23412.98",
+    "religion": "Guamanian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 48,
+    "occupation": "Senior Sales Associate",
+    "income": "$96208.62",
+    "religion": "Cambodian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 48,
+    "occupation": "Community Outreach Specialist",
+    "income": "$32112.52",
+    "religion": "Cambodian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 42,
+    "occupation": "Structural Analysis Engineer",
+    "income": "$68878.44",
+    "religion": "Micronesian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 89,
+    "occupation": "Environmental Specialist",
+    "income": "$18633.70",
+    "religion": "Latin American Indian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 60,
+    "occupation": "Assistant Manager",
+    "income": "$99038.83",
+    "religion": "Asian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 43,
+    "occupation": "Dental Hygienist",
+    "income": "$18635.38",
+    "religion": "Sri Lankan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 69,
+    "occupation": "Sales Associate",
+    "income": "$67748.16",
+    "religion": "Micronesian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 84,
+    "occupation": "Account Executive",
+    "income": "$27405.91",
+    "religion": "Houma",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 16,
+    "occupation": "Marketing Manager",
+    "income": "$30325.02",
+    "religion": "Salvadoran",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 45,
+    "occupation": "Occupational Therapist",
+    "income": "$67716.54",
+    "religion": "Central American",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 24,
+    "occupation": "Programmer Analyst II",
+    "income": "$63692.41",
+    "religion": "Apache",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 42,
+    "occupation": "Human Resources Manager",
+    "income": "$25878.77",
+    "religion": "Blackfeet",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 70,
+    "occupation": "Tax Accountant",
+    "income": "$31059.86",
+    "religion": "Native Hawaiian and Other Pacific Islander (NHPI)",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 72,
+    "occupation": "Quality Engineer",
+    "income": "$13447.96",
+    "religion": "Puerto Rican",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 28,
+    "occupation": "Project Manager",
+    "income": "$37593.37",
+    "religion": "Fijian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 64,
+    "occupation": "Software Engineer III",
+    "income": "$79753.53",
+    "religion": "Delaware",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 87,
+    "occupation": "Help Desk Technician",
+    "income": "$56003.66",
+    "religion": "Blackfeet",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 80,
+    "occupation": "Systems Administrator IV",
+    "income": "$99832.40",
+    "religion": "Chippewa",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 77,
+    "occupation": "Editor",
+    "income": "$32039.68",
+    "religion": "Eskimo",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 37,
+    "occupation": "Civil Engineer",
+    "income": "$14380.22",
+    "religion": "Taiwanese",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 72,
+    "occupation": "Desktop Support Technician",
+    "income": "$96352.02",
+    "religion": "Polynesian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 43,
+    "occupation": "VP Marketing",
+    "income": "$25435.67",
+    "religion": "Yaqui",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "VP Quality Control",
+    "income": "$23874.42",
+    "religion": "Alaska Native",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 21,
+    "occupation": "Information Systems Manager",
+    "income": "$27818.37",
+    "religion": "Filipino",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 46,
+    "occupation": "Nuclear Power Engineer",
+    "income": "$51707.20",
+    "religion": "Cheyenne",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 82,
+    "occupation": "Marketing Manager",
+    "income": "$16156.48",
+    "religion": "Alaskan Athabascan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 31,
+    "occupation": "Recruiting Manager",
+    "income": "$83228.76",
+    "religion": "Chilean",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 81,
+    "occupation": "Assistant Media Planner",
+    "income": "$44324.14",
+    "religion": "Peruvian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 17,
+    "occupation": "Business Systems Development Analyst",
+    "income": "$68482.49",
+    "religion": "Vietnamese",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 31,
+    "occupation": "Office Assistant II",
+    "income": "$36955.10",
+    "religion": "Tlingit-Haida",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 48,
+    "occupation": "Environmental Tech",
+    "income": "$65377.18",
+    "religion": "Mexican",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 79,
+    "occupation": "Cost Accountant",
+    "income": "$17353.51",
+    "religion": "Pakistani",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 43,
+    "occupation": "Product Engineer",
+    "income": "$98053.26",
+    "religion": "Chickasaw",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 22,
+    "occupation": "Database Administrator II",
+    "income": "$96465.69",
+    "religion": "Alaska Native",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 50,
+    "occupation": "Community Outreach Specialist",
+    "income": "$71904.54",
+    "religion": "Iroquois",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 51,
+    "occupation": "Junior Executive",
+    "income": "$36541.31",
+    "religion": "Peruvian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 70,
+    "occupation": "Human Resources Assistant II",
+    "income": "$94405.92",
+    "religion": "Peruvian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 81,
+    "occupation": "Design Engineer",
+    "income": "$68973.94",
+    "religion": "Paiute",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 65,
+    "occupation": "Physical Therapy Assistant",
+    "income": "$44131.32",
+    "religion": "Chickasaw",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 21,
+    "occupation": "Technical Writer",
+    "income": "$85463.86",
+    "religion": "Cherokee",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 19,
+    "occupation": "Account Representative I",
+    "income": "$23374.59",
+    "religion": "Alaska Native",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 80,
+    "occupation": "Compensation Analyst",
+    "income": "$59949.55",
+    "religion": "Pima",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 61,
+    "occupation": "Associate Professor",
+    "income": "$95302.78",
+    "religion": "Filipino",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 21,
+    "occupation": "VP Sales",
+    "income": "$93393.62",
+    "religion": "Puerto Rican",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 36,
+    "occupation": "Director of Sales",
+    "income": "$79285.81",
+    "religion": "Native Hawaiian and Other Pacific Islander (NHPI)",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 71,
+    "occupation": "VP Product Management",
+    "income": "$80211.97",
+    "religion": "Cambodian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 73,
+    "occupation": "Project Manager",
+    "income": "$25156.52",
+    "religion": "Menominee",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 76,
+    "occupation": "Executive Secretary",
+    "income": "$69800.44",
+    "religion": "Micronesian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 22,
+    "occupation": "Director of Sales",
+    "income": "$48666.55",
+    "religion": "Blackfeet",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 19,
+    "occupation": "VP Sales",
+    "income": "$58905.14",
+    "religion": "Shoshone",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 41,
+    "occupation": "Clinical Specialist",
+    "income": "$50085.85",
+    "religion": "Malaysian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 80,
+    "occupation": "Senior Sales Associate",
+    "income": "$72437.14",
+    "religion": "Chilean",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 34,
+    "occupation": "Automation Specialist IV",
+    "income": "$53707.63",
+    "religion": "Asian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 17,
+    "occupation": "Sales Associate",
+    "income": "$20894.30",
+    "religion": "Indonesian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 48,
+    "occupation": "Human Resources Assistant IV",
+    "income": "$93665.96",
+    "religion": "Korean",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 17,
+    "occupation": "Account Coordinator",
+    "income": "$47996.76",
+    "religion": "Chickasaw",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 34,
+    "occupation": "Information Systems Manager",
+    "income": "$29683.19",
+    "religion": "Puget Sound Salish",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 63,
+    "occupation": "Graphic Designer",
+    "income": "$94877.81",
+    "religion": "Nicaraguan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 82,
+    "occupation": "Executive Secretary",
+    "income": "$56690.28",
+    "religion": "Chippewa",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "occupation": "Analog Circuit Design manager",
+    "income": "$48804.00",
+    "religion": "Pakistani",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 44,
+    "occupation": "Human Resources Assistant III",
+    "income": "$13208.45",
+    "religion": "Tongan",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 42,
+    "occupation": "Sales Associate",
+    "income": "$68093.25",
+    "religion": "Polynesian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 78,
+    "occupation": "Analog Circuit Design manager",
+    "income": "$69577.87",
+    "religion": "Paraguayan",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 53,
+    "occupation": "Geological Engineer",
+    "income": "$23108.04",
+    "religion": "Puget Sound Salish",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 40,
+    "occupation": "Director of Sales",
+    "income": "$20183.25",
+    "religion": "Alaskan Athabascan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 61,
+    "occupation": "Business Systems Development Analyst",
+    "income": "$76298.66",
+    "religion": "Panamanian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 88,
+    "occupation": "Senior Editor",
+    "income": "$47755.29",
+    "religion": "Bangladeshi",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 43,
+    "occupation": "Operator",
+    "income": "$65175.24",
+    "religion": "Spaniard",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 67,
+    "occupation": "Recruiting Manager",
+    "income": "$87858.40",
+    "religion": "Apache",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 38,
+    "occupation": "Nurse",
+    "income": "$61943.52",
+    "religion": "Vietnamese",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 60,
+    "occupation": "Help Desk Operator",
+    "income": "$74755.20",
+    "religion": "Tohono O'Odham",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 52,
+    "occupation": "Desktop Support Technician",
+    "income": "$18506.61",
+    "religion": "Pakistani",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 74,
+    "occupation": "Accountant IV",
+    "income": "$21980.20",
+    "religion": "Choctaw",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 89,
+    "occupation": "Nurse Practicioner",
+    "income": "$37912.97",
+    "religion": "Chippewa",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 31,
+    "occupation": "Junior Executive",
+    "income": "$40076.41",
+    "religion": "Dominican (Dominican Republic)",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 55,
+    "occupation": "VP Accounting",
+    "income": "$45024.45",
+    "religion": "Osage",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 49,
+    "occupation": "Senior Developer",
+    "income": "$91452.28",
+    "religion": "Uruguayan",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 19,
+    "occupation": "Social Worker",
+    "income": "$46693.36",
+    "religion": "Delaware",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 90,
+    "occupation": "Account Representative IV",
+    "income": "$41263.50",
+    "religion": "Indonesian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 50,
+    "occupation": "Geologist I",
+    "income": "$84394.57",
+    "religion": "Apache",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 88,
+    "occupation": "Health Coach II",
+    "income": "$96268.36",
+    "religion": "Costa Rican",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 22,
+    "occupation": "Speech Pathologist",
+    "income": "$15833.79",
+    "religion": "Filipino",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 52,
+    "occupation": "Chemical Engineer",
+    "income": "$16963.05",
+    "religion": "Aleut",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 81,
+    "occupation": "Mechanical Systems Engineer",
+    "income": "$59018.06",
+    "religion": "Mexican",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 74,
+    "occupation": "Professor",
+    "income": "$62953.24",
+    "religion": "Lumbee",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 75,
+    "occupation": "Actuary",
+    "income": "$32417.92",
+    "religion": "Dominican (Dominican Republic)",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 48,
+    "occupation": "Research Associate",
+    "income": "$63052.60",
+    "religion": "Sioux",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 29,
+    "occupation": "Paralegal",
+    "income": "$71804.15",
+    "religion": "Cheyenne",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 18,
+    "occupation": "Research Assistant IV",
+    "income": "$85074.27",
+    "religion": "Chinese",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 46,
+    "occupation": "Senior Editor",
+    "income": "$38591.34",
+    "religion": "American Indian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 41,
+    "occupation": "Clinical Specialist",
+    "income": "$62942.12",
+    "religion": "Guatemalan",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 70,
+    "occupation": "Teacher",
+    "income": "$41118.39",
+    "religion": "Mexican",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 29,
+    "occupation": "Graphic Designer",
+    "income": "$16209.85",
+    "religion": "Honduran",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 65,
+    "occupation": "Cost Accountant",
+    "income": "$94866.87",
+    "religion": "Argentinian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 21,
+    "occupation": "Analog Circuit Design manager",
+    "income": "$70708.80",
+    "religion": "Paraguayan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 43,
+    "occupation": "Sales Associate",
+    "income": "$30667.00",
+    "religion": "Cheyenne",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 72,
+    "occupation": "Web Designer I",
+    "income": "$61598.46",
+    "religion": "Korean",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 21,
+    "occupation": "Director of Sales",
+    "income": "$72010.38",
+    "religion": "Cree",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 35,
+    "occupation": "Technical Writer",
+    "income": "$67696.25",
+    "religion": "Chamorro",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 25,
+    "occupation": "Quality Control Specialist",
+    "income": "$48978.45",
+    "religion": "Uruguayan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 25,
+    "occupation": "Engineer II",
+    "income": "$36170.42",
+    "religion": "Paraguayan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 20,
+    "occupation": "Pharmacist",
+    "income": "$86312.78",
+    "religion": "Houma",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "occupation": "Payment Adjustment Coordinator",
+    "income": "$68161.49",
+    "religion": "Argentinian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 52,
+    "occupation": "Programmer Analyst III",
+    "income": "$62593.53",
+    "religion": "White",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 72,
+    "occupation": "Actuary",
+    "income": "$15279.79",
+    "religion": "Navajo",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 55,
+    "occupation": "Product Engineer",
+    "income": "$32636.04",
+    "religion": "Colombian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 57,
+    "occupation": "Software Engineer II",
+    "income": "$75094.53",
+    "religion": "Crow",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 28,
+    "occupation": "Mechanical Systems Engineer",
+    "income": "$73581.53",
+    "religion": "Chinese",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 71,
+    "occupation": "VP Sales",
+    "income": "$56364.67",
+    "religion": "Costa Rican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 49,
+    "occupation": "Actuary",
+    "income": "$72706.08",
+    "religion": "Bangladeshi",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 76,
+    "occupation": "Junior Executive",
+    "income": "$11297.29",
+    "religion": "Iroquois",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 35,
+    "occupation": "Legal Assistant",
+    "income": "$98822.09",
+    "religion": "Potawatomi",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 40,
+    "occupation": "Software Engineer I",
+    "income": "$40835.09",
+    "religion": "Samoan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 56,
+    "occupation": "Biostatistician I",
+    "income": "$37864.96",
+    "religion": "Chippewa",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 32,
+    "occupation": "Nurse",
+    "income": "$42881.81",
+    "religion": "Choctaw",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 65,
+    "occupation": "Quality Engineer",
+    "income": "$77902.96",
+    "religion": "Cree",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 54,
+    "occupation": "Dental Hygienist",
+    "income": "$34901.26",
+    "religion": "Cree",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 51,
+    "occupation": "Librarian",
+    "income": "$46448.97",
+    "religion": "Malaysian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 88,
+    "occupation": "Senior Financial Analyst",
+    "income": "$25063.91",
+    "religion": "Puerto Rican",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 82,
+    "occupation": "Recruiting Manager",
+    "income": "$59967.15",
+    "religion": "Costa Rican",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 15,
+    "occupation": "Mechanical Systems Engineer",
+    "income": "$80487.71",
+    "religion": "Thai",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 63,
+    "occupation": "Quality Control Specialist",
+    "income": "$54372.13",
+    "religion": "Colombian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 41,
+    "occupation": "Research Nurse",
+    "income": "$88218.75",
+    "religion": "Yaqui",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 73,
+    "occupation": "Nurse Practicioner",
+    "income": "$18168.50",
+    "religion": "Tongan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 59,
+    "occupation": "Systems Administrator II",
+    "income": "$56141.50",
+    "religion": "Houma",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 58,
+    "occupation": "Executive Secretary",
+    "income": "$65292.61",
+    "religion": "Samoan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 28,
+    "occupation": "Assistant Manager",
+    "income": "$81677.53",
+    "religion": "Pakistani",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 77,
+    "occupation": "Paralegal",
+    "income": "$14899.89",
+    "religion": "Menominee",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 20,
+    "occupation": "Desktop Support Technician",
+    "income": "$85226.72",
+    "religion": "Dominican (Dominican Republic)",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 71,
+    "occupation": "Community Outreach Specialist",
+    "income": "$49762.32",
+    "religion": "Pueblo",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 82,
+    "occupation": "Account Executive",
+    "income": "$28302.54",
+    "religion": "Tlingit-Haida",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 58,
+    "occupation": "Environmental Specialist",
+    "income": "$26866.67",
+    "religion": "Polynesian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 44,
+    "occupation": "Pharmacist",
+    "income": "$68083.90",
+    "religion": "Indonesian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 74,
+    "occupation": "Physical Therapy Assistant",
+    "income": "$82957.96",
+    "religion": "Lumbee",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 71,
+    "occupation": "Recruiting Manager",
+    "income": "$56304.43",
+    "religion": "Samoan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 65,
+    "occupation": "Technical Writer",
+    "income": "$10309.84",
+    "religion": "Bangladeshi",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "occupation": "Registered Nurse",
+    "income": "$83523.98",
+    "religion": "Paiute",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 46,
+    "occupation": "Marketing Manager",
+    "income": "$90209.20",
+    "religion": "Menominee",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 32,
+    "occupation": "Clinical Specialist",
+    "income": "$74183.46",
+    "religion": "Puerto Rican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 57,
+    "occupation": "Quality Control Specialist",
+    "income": "$27052.84",
+    "religion": "Filipino",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 37,
+    "occupation": "Professor",
+    "income": "$41031.57",
+    "religion": "Malaysian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 29,
+    "occupation": "Executive Secretary",
+    "income": "$65449.47",
+    "religion": "Colville",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 24,
+    "occupation": "Staff Scientist",
+    "income": "$18413.42",
+    "religion": "Menominee",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 53,
+    "occupation": "Software Engineer IV",
+    "income": "$83481.72",
+    "religion": "Blackfeet",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 63,
+    "occupation": "Executive Secretary",
+    "income": "$92878.85",
+    "religion": "Guamanian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 81,
+    "occupation": "Administrative Assistant II",
+    "income": "$55515.24",
+    "religion": "Vietnamese",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 79,
+    "occupation": "Research Assistant I",
+    "income": "$85283.83",
+    "religion": "American Indian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 57,
+    "occupation": "Business Systems Development Analyst",
+    "income": "$67671.34",
+    "religion": "Pima",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 33,
+    "occupation": "Geological Engineer",
+    "income": "$85407.18",
+    "religion": "Mexican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 42,
+    "occupation": "Financial Analyst",
+    "income": "$42227.47",
+    "religion": "Polynesian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 63,
+    "occupation": "Marketing Assistant",
+    "income": "$38108.08",
+    "religion": "Ottawa",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 35,
+    "occupation": "Community Outreach Specialist",
+    "income": "$36707.87",
+    "religion": "Choctaw",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 73,
+    "occupation": "Community Outreach Specialist",
+    "income": "$63292.43",
+    "religion": "Tlingit-Haida",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 78,
+    "occupation": "Cost Accountant",
+    "income": "$41865.06",
+    "religion": "Cree",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 79,
+    "occupation": "Health Coach III",
+    "income": "$10744.57",
+    "religion": "Ottawa",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 27,
+    "occupation": "Statistician IV",
+    "income": "$68613.63",
+    "religion": "Salvadoran",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 57,
+    "occupation": "Executive Secretary",
+    "income": "$68859.25",
+    "religion": "Native Hawaiian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 76,
+    "occupation": "Account Executive",
+    "income": "$53920.79",
+    "religion": "Venezuelan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 38,
+    "occupation": "Account Executive",
+    "income": "$84639.76",
+    "religion": "Bolivian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 78,
+    "occupation": "Environmental Specialist",
+    "income": "$14794.68",
+    "religion": "Asian Indian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 64,
+    "occupation": "Structural Engineer",
+    "income": "$45366.18",
+    "religion": "Mexican",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 84,
+    "occupation": "Teacher",
+    "income": "$26491.02",
+    "religion": "Cree",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 23,
+    "occupation": "Project Manager",
+    "income": "$27992.57",
+    "religion": "Hmong",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 70,
+    "occupation": "Financial Analyst",
+    "income": "$16006.88",
+    "religion": "Ute",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 39,
+    "occupation": "Research Associate",
+    "income": "$99429.58",
+    "religion": "Chinese",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 44,
+    "occupation": "Environmental Tech",
+    "income": "$61567.86",
+    "religion": "Blackfeet",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 56,
+    "occupation": "Financial Advisor",
+    "income": "$49201.96",
+    "religion": "Bolivian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 23,
+    "occupation": "Senior Quality Engineer",
+    "income": "$74063.71",
+    "religion": "Black or African American",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 30,
+    "occupation": "Senior Editor",
+    "income": "$77526.74",
+    "religion": "Seminole",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 21,
+    "occupation": "Staff Scientist",
+    "income": "$11713.29",
+    "religion": "Iroquois",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 77,
+    "occupation": "Assistant Media Planner",
+    "income": "$49329.22",
+    "religion": "Filipino",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 24,
+    "occupation": "Quality Engineer",
+    "income": "$81108.74",
+    "religion": "Korean",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 72,
+    "occupation": "Accountant IV",
+    "income": "$75592.24",
+    "religion": "Spaniard",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 84,
+    "occupation": "Actuary",
+    "income": "$90773.75",
+    "religion": "Eskimo",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 31,
+    "occupation": "Office Assistant IV",
+    "income": "$94261.02",
+    "religion": "Fijian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 47,
+    "occupation": "Help Desk Operator",
+    "income": "$51911.15",
+    "religion": "Uruguayan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 48,
+    "occupation": "GIS Technical Architect",
+    "income": "$36804.54",
+    "religion": "Peruvian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 33,
+    "occupation": "Food Chemist",
+    "income": "$52379.09",
+    "religion": "Comanche",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Chief Design Engineer",
+    "income": "$68763.45",
+    "religion": "Asian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 70,
+    "occupation": "Web Developer II",
+    "income": "$58241.29",
+    "religion": "Sri Lankan",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 40,
+    "occupation": "Sales Associate",
+    "income": "$64071.82",
+    "religion": "Apache",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 61,
+    "occupation": "Software Engineer II",
+    "income": "$64688.68",
+    "religion": "Creek",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 36,
+    "occupation": "Civil Engineer",
+    "income": "$39798.95",
+    "religion": "South American",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 38,
+    "occupation": "Senior Editor",
+    "income": "$75584.71",
+    "religion": "Tlingit-Haida",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 80,
+    "occupation": "Teacher",
+    "income": "$82173.51",
+    "religion": "Vietnamese",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 74,
+    "occupation": "VP Sales",
+    "income": "$82715.00",
+    "religion": "Bangladeshi",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 61,
+    "occupation": "Statistician IV",
+    "income": "$31938.28",
+    "religion": "Paiute",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 22,
+    "occupation": "Sales Associate",
+    "income": "$39796.71",
+    "religion": "Filipino",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 58,
+    "occupation": "Executive Secretary",
+    "income": "$67243.79",
+    "religion": "Tongan",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 75,
+    "occupation": "Analyst Programmer",
+    "income": "$93412.24",
+    "religion": "Apache",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 47,
+    "occupation": "Business Systems Development Analyst",
+    "income": "$95610.63",
+    "religion": "Osage",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 24,
+    "occupation": "Assistant Media Planner",
+    "income": "$14963.00",
+    "religion": "Korean",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 67,
+    "occupation": "Operator",
+    "income": "$56640.09",
+    "religion": "Chippewa",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 36,
+    "occupation": "Chemical Engineer",
+    "income": "$22936.69",
+    "religion": "Yuman",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 30,
+    "occupation": "Accounting Assistant II",
+    "income": "$35896.28",
+    "religion": "Nicaraguan",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 35,
+    "occupation": "Analog Circuit Design manager",
+    "income": "$98185.22",
+    "religion": "Bangladeshi",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 67,
+    "occupation": "Internal Auditor",
+    "income": "$29834.84",
+    "religion": "Chickasaw",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 90,
+    "occupation": "Junior Executive",
+    "income": "$69415.23",
+    "religion": "Latin American Indian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 66,
+    "occupation": "Senior Quality Engineer",
+    "income": "$40579.55",
+    "religion": "Salvadoran",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 61,
+    "occupation": "Clinical Specialist",
+    "income": "$93185.32",
+    "religion": "Cheyenne",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 59,
+    "occupation": "Staff Accountant II",
+    "income": "$98642.58",
+    "religion": "Central American",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 38,
+    "occupation": "Account Representative III",
+    "income": "$92782.27",
+    "religion": "Puerto Rican",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 27,
+    "occupation": "Systems Administrator I",
+    "income": "$24285.23",
+    "religion": "Chilean",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 89,
+    "occupation": "Research Nurse",
+    "income": "$15179.63",
+    "religion": "Tongan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "occupation": "Sales Associate",
+    "income": "$63677.39",
+    "religion": "Alaska Native",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 83,
+    "occupation": "VP Sales",
+    "income": "$32850.05",
+    "religion": "Crow",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 23,
+    "occupation": "Geological Engineer",
+    "income": "$48969.56",
+    "religion": "Puerto Rican",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 29,
+    "occupation": "Associate Professor",
+    "income": "$22540.04",
+    "religion": "American Indian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 41,
+    "occupation": "Administrative Assistant IV",
+    "income": "$66553.62",
+    "religion": "Lumbee",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 50,
+    "occupation": "GIS Technical Architect",
+    "income": "$93915.11",
+    "religion": "Aleut",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 56,
+    "occupation": "Senior Editor",
+    "income": "$15986.69",
+    "religion": "Blackfeet",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 76,
+    "occupation": "Junior Executive",
+    "income": "$60971.07",
+    "religion": "Puerto Rican",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 18,
+    "occupation": "Social Worker",
+    "income": "$53343.27",
+    "religion": "Alaska Native",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 32,
+    "occupation": "Speech Pathologist",
+    "income": "$68738.19",
+    "religion": "Native Hawaiian and Other Pacific Islander (NHPI)",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 76,
+    "occupation": "Human Resources Assistant II",
+    "income": "$12269.86",
+    "religion": "Uruguayan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 63,
+    "occupation": "Executive Secretary",
+    "income": "$33231.94",
+    "religion": "Shoshone",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 79,
+    "occupation": "Project Manager",
+    "income": "$97411.26",
+    "religion": "Kiowa",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 48,
+    "occupation": "Help Desk Operator",
+    "income": "$97533.05",
+    "religion": "Cheyenne",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 66,
+    "occupation": "Sales Representative",
+    "income": "$45895.48",
+    "religion": "Tlingit-Haida",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 69,
+    "occupation": "Developer III",
+    "income": "$97582.07",
+    "religion": "Costa Rican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 41,
+    "occupation": "Database Administrator III",
+    "income": "$78812.37",
+    "religion": "American Indian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 43,
+    "occupation": "Quality Engineer",
+    "income": "$98226.97",
+    "religion": "Seminole",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "occupation": "Actuary",
+    "income": "$16758.36",
+    "religion": "Creek",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 79,
+    "occupation": "Sales Associate",
+    "income": "$85319.62",
+    "religion": "Chippewa",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 87,
+    "occupation": "Civil Engineer",
+    "income": "$82752.31",
+    "religion": "Tlingit-Haida",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 27,
+    "occupation": "Paralegal",
+    "income": "$81543.52",
+    "religion": "Guatemalan",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 54,
+    "occupation": "Human Resources Manager",
+    "income": "$93100.14",
+    "religion": "Mexican",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 32,
+    "occupation": "VP Product Management",
+    "income": "$85690.35",
+    "religion": "Panamanian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 17,
+    "occupation": "Professor",
+    "income": "$47822.50",
+    "religion": "Apache",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 79,
+    "occupation": "Civil Engineer",
+    "income": "$22747.06",
+    "religion": "Black or African American",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 16,
+    "occupation": "Sales Associate",
+    "income": "$95011.94",
+    "religion": "Native Hawaiian and Other Pacific Islander (NHPI)",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 87,
+    "occupation": "Safety Technician IV",
+    "income": "$67912.40",
+    "religion": "Colombian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 63,
+    "occupation": "Project Manager",
+    "income": "$10433.35",
+    "religion": "Vietnamese",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 59,
+    "occupation": "Product Engineer",
+    "income": "$89912.72",
+    "religion": "Honduran",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 52,
+    "occupation": "Project Manager",
+    "income": "$52177.12",
+    "religion": "Guamanian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 69,
+    "occupation": "Community Outreach Specialist",
+    "income": "$69649.77",
+    "religion": "Cree",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 20,
+    "occupation": "Senior Financial Analyst",
+    "income": "$39249.34",
+    "religion": "Uruguayan",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 47,
+    "occupation": "Geologist III",
+    "income": "$40297.78",
+    "religion": "Chickasaw",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 58,
+    "occupation": "Web Designer III",
+    "income": "$14833.73",
+    "religion": "Chickasaw",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 75,
+    "occupation": "Engineer II",
+    "income": "$43240.45",
+    "religion": "Cree",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 35,
+    "occupation": "Occupational Therapist",
+    "income": "$83825.95",
+    "religion": "Navajo",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 31,
+    "occupation": "Web Developer IV",
+    "income": "$72936.42",
+    "religion": "Micronesian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "occupation": "Senior Sales Associate",
+    "income": "$43527.68",
+    "religion": "Chippewa",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 32,
+    "occupation": "Human Resources Manager",
+    "income": "$79536.91",
+    "religion": "Melanesian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 32,
+    "occupation": "Occupational Therapist",
+    "income": "$53710.22",
+    "religion": "Filipino",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 75,
+    "occupation": "Community Outreach Specialist",
+    "income": "$90649.81",
+    "religion": "Navajo",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 16,
+    "occupation": "Senior Editor",
+    "income": "$43065.55",
+    "religion": "Samoan",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 79,
+    "occupation": "Chief Design Engineer",
+    "income": "$17578.69",
+    "religion": "Cheyenne",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 29,
+    "occupation": "VP Accounting",
+    "income": "$26212.85",
+    "religion": "Japanese",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 31,
+    "occupation": "Software Consultant",
+    "income": "$25499.42",
+    "religion": "Menominee",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 89,
+    "occupation": "Help Desk Operator",
+    "income": "$57457.47",
+    "religion": "American Indian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 72,
+    "occupation": "Account Executive",
+    "income": "$80287.47",
+    "religion": "Vietnamese",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 51,
+    "occupation": "Civil Engineer",
+    "income": "$22450.02",
+    "religion": "Alaska Native",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 74,
+    "occupation": "Help Desk Operator",
+    "income": "$81986.40",
+    "religion": "Thai",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 26,
+    "occupation": "Sales Representative",
+    "income": "$44008.16",
+    "religion": "Paiute",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 16,
+    "occupation": "General Manager",
+    "income": "$76017.36",
+    "religion": "Houma",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 52,
+    "occupation": "Legal Assistant",
+    "income": "$12798.42",
+    "religion": "Filipino",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 68,
+    "occupation": "Registered Nurse",
+    "income": "$79802.92",
+    "religion": "Venezuelan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 79,
+    "occupation": "VP Marketing",
+    "income": "$19309.02",
+    "religion": "Bolivian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 71,
+    "occupation": "VP Product Management",
+    "income": "$59239.19",
+    "religion": "Pakistani",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 69,
+    "occupation": "Accountant II",
+    "income": "$38305.43",
+    "religion": "Potawatomi",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 54,
+    "occupation": "Research Assistant III",
+    "income": "$99564.21",
+    "religion": "Tongan",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 53,
+    "occupation": "Graphic Designer",
+    "income": "$92289.89",
+    "religion": "Cree",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 46,
+    "occupation": "Environmental Specialist",
+    "income": "$96121.68",
+    "religion": "Chinese",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 34,
+    "occupation": "Executive Secretary",
+    "income": "$70470.96",
+    "religion": "Costa Rican",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 22,
+    "occupation": "VP Product Management",
+    "income": "$26838.67",
+    "religion": "Tohono O'Odham",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 69,
+    "occupation": "Senior Quality Engineer",
+    "income": "$22971.93",
+    "religion": "Potawatomi",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 35,
+    "occupation": "Information Systems Manager",
+    "income": "$27728.70",
+    "religion": "Chickasaw",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 16,
+    "occupation": "Civil Engineer",
+    "income": "$27615.46",
+    "religion": "Navajo",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 18,
+    "occupation": "Developer IV",
+    "income": "$33049.78",
+    "religion": "Micronesian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 31,
+    "occupation": "Librarian",
+    "income": "$67454.36",
+    "religion": "Puerto Rican",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 63,
+    "occupation": "Environmental Specialist",
+    "income": "$72969.81",
+    "religion": "Argentinian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 15,
+    "occupation": "Project Manager",
+    "income": "$45792.14",
+    "religion": "Cherokee",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 22,
+    "occupation": "Statistician III",
+    "income": "$11344.98",
+    "religion": "Pakistani",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 41,
+    "occupation": "Assistant Media Planner",
+    "income": "$66309.11",
+    "religion": "Choctaw",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 45,
+    "occupation": "Librarian",
+    "income": "$89809.73",
+    "religion": "Paiute",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 85,
+    "occupation": "Statistician III",
+    "income": "$41151.28",
+    "religion": "Colombian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 78,
+    "occupation": "Statistician III",
+    "income": "$70936.07",
+    "religion": "Asian Indian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 56,
+    "occupation": "Teacher",
+    "income": "$79938.45",
+    "religion": "Blackfeet",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 24,
+    "occupation": "Chief Design Engineer",
+    "income": "$16994.80",
+    "religion": "Sioux",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 54,
+    "occupation": "Account Coordinator",
+    "income": "$72068.42",
+    "religion": "Paiute",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 33,
+    "occupation": "Desktop Support Technician",
+    "income": "$65176.26",
+    "religion": "Korean",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 79,
+    "occupation": "Programmer Analyst II",
+    "income": "$50362.19",
+    "religion": "Asian Indian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 42,
+    "occupation": "Payment Adjustment Coordinator",
+    "income": "$73766.95",
+    "religion": "Puerto Rican",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 51,
+    "occupation": "Sales Representative",
+    "income": "$96029.96",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Speech Pathologist",
+    "income": "$92297.68",
+    "religion": "Alaskan Athabascan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 24,
+    "occupation": "Financial Analyst",
+    "income": "$37882.29",
+    "religion": "Houma",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 17,
+    "occupation": "Assistant Media Planner",
+    "income": "$30554.50",
+    "religion": "White",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 31,
+    "occupation": "Software Consultant",
+    "income": "$10378.85",
+    "religion": "Crow",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 56,
+    "occupation": "Dental Hygienist",
+    "income": "$74079.70",
+    "religion": "Menominee",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 81,
+    "occupation": "Geological Engineer",
+    "income": "$62425.71",
+    "religion": "Spaniard",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 68,
+    "occupation": "Mechanical Systems Engineer",
+    "income": "$19361.01",
+    "religion": "Cuban",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 79,
+    "occupation": "General Manager",
+    "income": "$40172.43",
+    "religion": "Paiute",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 33,
+    "occupation": "Assistant Media Planner",
+    "income": "$96752.69",
+    "religion": "Choctaw",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 40,
+    "occupation": "Technical Writer",
+    "income": "$69487.70",
+    "religion": "Choctaw",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "F",
+    "age": 15,
+    "occupation": "General Manager",
+    "income": "$28375.50",
+    "religion": "Delaware",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 60,
+    "occupation": "VP Accounting",
+    "income": "$36939.60",
+    "religion": "Aleut",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 55,
+    "occupation": "Quality Control Specialist",
+    "income": "$23338.78",
+    "religion": "Chilean",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 34,
+    "occupation": "General Manager",
+    "income": "$99059.82",
+    "religion": "Polynesian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 21,
+    "occupation": "Clinical Specialist",
+    "income": "$21600.51",
+    "religion": "Honduran",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 85,
+    "occupation": "Environmental Specialist",
+    "income": "$99381.10",
+    "religion": "Melanesian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 57,
+    "occupation": "Sales Associate",
+    "income": "$85070.22",
+    "religion": "Peruvian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 72,
+    "occupation": "Tax Accountant",
+    "income": "$18225.74",
+    "religion": "Blackfeet",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "M",
+    "age": 60,
+    "occupation": "Geological Engineer",
+    "income": "$97469.42",
+    "religion": "Apache",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 41,
+    "occupation": "Safety Technician I",
+    "income": "$90650.70",
+    "religion": "Chickasaw",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 87,
+    "occupation": "Food Chemist",
+    "income": "$15539.28",
+    "religion": "Fijian",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 83,
+    "occupation": "Recruiting Manager",
+    "income": "$51971.67",
+    "religion": "Samoan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 34,
+    "occupation": "Safety Technician I",
+    "income": "$20913.90",
+    "religion": "Shoshone",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 30,
+    "occupation": "Data Coordiator",
+    "income": "$86900.78",
+    "religion": "Paraguayan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 88,
+    "occupation": "Legal Assistant",
+    "income": "$63600.81",
+    "religion": "Panamanian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "M",
+    "age": 59,
+    "occupation": "Human Resources Assistant I",
+    "income": "$50433.59",
+    "religion": "Nicaraguan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 84,
+    "occupation": "Information Systems Manager",
+    "income": "$11614.58",
+    "religion": "Uruguayan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 40,
+    "occupation": "Chemical Engineer",
+    "income": "$86122.72",
+    "religion": "Navajo",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 35,
+    "occupation": "Desktop Support Technician",
+    "income": "$95836.15",
+    "religion": "Asian Indian",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 26,
+    "occupation": "Data Coordiator",
+    "income": "$17217.31",
+    "religion": "American Indian",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 59,
+    "occupation": "Legal Assistant",
+    "income": "$45722.79",
+    "religion": "Central American",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 48,
+    "occupation": "Professor",
+    "income": "$12814.66",
+    "religion": "Uruguayan",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 31,
+    "occupation": "Staff Accountant IV",
+    "income": "$87386.07",
+    "religion": "Tohono O'Odham",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 86,
+    "occupation": "Help Desk Technician",
+    "income": "$56359.17",
+    "religion": "White",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "F",
+    "age": 61,
+    "occupation": "Safety Technician III",
+    "income": "$77178.39",
+    "religion": "Delaware",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 72,
+    "occupation": "Developer III",
+    "income": "$58128.71",
+    "religion": "Delaware",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 15,
+    "occupation": "Software Consultant",
+    "income": "$81434.62",
+    "religion": "Alaskan Athabascan",
+    "marital status": "Mrs"
+  },
+  {
+    "gender": "F",
+    "age": 80,
+    "occupation": "Developer IV",
+    "income": "$47505.21",
+    "religion": "Asian",
+    "marital status": "Ms"
+  },
+  {
+    "gender": "F",
+    "age": 44,
+    "occupation": "Food Chemist",
+    "income": "$64857.06",
+    "religion": "Choctaw",
+    "marital status": "Honorable"
+  },
+  {
+    "gender": "M",
+    "age": 63,
+    "occupation": "Marketing Manager",
+    "income": "$24477.94",
+    "religion": "Tlingit-Haida",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 78,
+    "occupation": "Software Engineer I",
+    "income": "$50037.71",
+    "religion": "Micronesian",
+    "marital status": "Rev"
+  },
+  {
+    "gender": "M",
+    "age": 27,
+    "occupation": "Research Associate",
+    "income": "$52231.73",
+    "religion": "Guamanian",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 28,
+    "occupation": "Help Desk Technician",
+    "income": "$58436.25",
+    "religion": "Choctaw",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "M",
+    "age": 41,
+    "occupation": "Registered Nurse",
+    "income": "$64089.57",
+    "religion": "Tlingit-Haida",
+    "marital status": "Dr"
+  },
+  {
+    "gender": "F",
+    "age": 48,
+    "occupation": "Senior Cost Accountant",
+    "income": "$61622.86",
+    "religion": "Potawatomi",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "M",
+    "age": 90,
+    "occupation": "Internal Auditor",
+    "income": "$45747.10",
+    "religion": "Taiwanese",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 46,
+    "occupation": "Pharmacist",
+    "income": "$60098.89",
+    "religion": "American Indian and Alaska Native (AIAN)",
+    "marital status": "Mr"
+  },
+  {
+    "gender": "F",
+    "age": 38,
+    "occupation": "Occupational Therapist",
+    "income": "$46651.84",
+    "religion": "Cambodian",
+    "marital status": "Dr"
+  }
+]

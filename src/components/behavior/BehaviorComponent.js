@@ -91,7 +91,7 @@ const BehaviorComponent = () => {
       name: chars[index][i],
       angle: c,
     }));
-    acc.push({ name: index, angle: curr.value, children: subTransformed });
+    acc.push({ name: ocean[index], angle: curr.value, children: subTransformed });
   };
 
   React.useEffect(() => {

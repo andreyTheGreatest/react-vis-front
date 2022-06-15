@@ -96,8 +96,12 @@ const BehaviorComponent = () => {
 
   React.useEffect(() => {
     if (!data) {
-      const transformed = transform(fakeData, iteratee, []);
-      setData(transformed);
+      fetch("http://127.0.0.1:5000/users/portrait/103")
+        .then((response) => response.json())
+        .then((acqiuredData) => {
+          const transformed = transform(acqiuredData, iteratee, []);
+          setData(transformed);
+        });
     }
   });
 

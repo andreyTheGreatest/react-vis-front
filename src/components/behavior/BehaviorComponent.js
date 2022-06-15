@@ -72,15 +72,15 @@ const chars = {
   ],
 };
 
-const BehaviorComponent = () => {
-  // const data = [
-  //   { name: "Conscientiousness", angle: 0.16 },
-  //   { name: "Extraversion", angle: 0.06 },
-  //   { name: "Agreeableness", angle: 0.84 },
-  //   { name: "Openness", angle: 0.83 },
-  //   { name: "Neuroticism", angle: 0.27 },
+const ocean = {
+  O: "Openness",
+  C: "Conscientiousness",
+  E: "Extraversion",
+  A: "Agreeableness",
+  N: "Neuroticism",
+};
 
-  // ];
+const BehaviorComponent = () => {
   const [data, setData] = React.useState(null);
   const [valueIndex, setValueIndex] = React.useState(null);
   const [subData, setSubData] = React.useState(null);
@@ -110,8 +110,9 @@ const BehaviorComponent = () => {
       <div
         style={{
           display: "flex",
-          width: "100%",
           alignContent: "space-between",
+          textAlign: "center",
+          justifyContent: "center",
         }}
       >
         {data &&
@@ -119,19 +120,29 @@ const BehaviorComponent = () => {
             <BehaviorChart each={each} i={i} setIndex={setValueIndex} />
           ))}
       </div>
-      <div
-        style={{
-          display: "flex",
-          width: "100%",
-          alignContent: "space-between",
-        }}
-      >
-        {valueIndex !== null &&
-          subData &&
-          subData.map((each, i) => {
-            return <BehaviorChart each={each} i={i} setIndex={setValueIndex} />;
-          })}
-      </div>
+      {valueIndex !== null && data && (
+        <div style={{ width: "100%", textAlign: "center" }}>
+          <h3 style={{ textAlign: "center" }}>
+            {ocean[data[valueIndex].name]}
+          </h3>
+
+          <div
+            style={{
+              display: "inline-flex",
+              alignContent: "space-between",
+              border: "1px dotted",
+            }}
+          >
+            {valueIndex !== null &&
+              subData &&
+              subData.map((each, i) => {
+                return (
+                  <BehaviorChart each={each} i={i} setIndex={setValueIndex} />
+                );
+              })}
+          </div>
+        </div>
+      )}
     </>
   );
 };

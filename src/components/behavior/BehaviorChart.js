@@ -7,7 +7,7 @@ const BehaviorChart = ({ each, i, setIndex }) => {
       style={{ width: 200 }}
       onClick={() => {
         console.log("click ", i);
-        setIndex(i);
+        setIndex && setIndex(i);
       }}
     >
       <RadialChart

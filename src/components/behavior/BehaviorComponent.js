@@ -1,6 +1,8 @@
+import { Spin } from "antd";
 import { transform } from "lodash";
 import React from "react";
 import BehaviorChart from "./BehaviorChart";
+import { LoadingOutlined } from "@ant-design/icons";
 
 const fakeData = {
   O: {
@@ -80,7 +82,7 @@ const ocean = {
   N: "Neuroticism",
 };
 
-const BehaviorComponent = () => {
+const BehaviorComponent = ({ personId }) => {
   const [data, setData] = React.useState(null);
   const [valueIndex, setValueIndex] = React.useState(null);
   const [subData, setSubData] = React.useState(null);
@@ -91,19 +93,27 @@ const BehaviorComponent = () => {
       name: chars[index][i],
       angle: c,
     }));
-    acc.push({ name: ocean[index], angle: curr.value, children: subTransformed });
+    acc.push({
+      name: ocean[index],
+      angle: curr.value,
+      children: subTransformed,
+    });
   };
 
   React.useEffect(() => {
-    if (!data) {
-      fetch("http://127.0.0.1:5000/users/portrait/103")
+    if (!data && personId) {
+      fetch(`http://127.0.0.1:5000/users/portrait/${personId}`)
         .then((response) => response.json())
         .then((acqiuredData) => {
           const transformed = transform(acqiuredData, iteratee, []);
           setData(transformed);
+        })
+        .catch((_) => {
+          const transformed = transform(fakeData, iteratee, []);
+          setData(transformed);
         });
     }
-  });
+  }, [personId]);
 
   React.useEffect(() => {
     if (valueIndex !== null) setSubData(data[valueIndex].children);
@@ -119,15 +129,22 @@ const BehaviorComponent = () => {
           justifyContent: "center",
         }}
       >
+        {personId !== null && !data && (
+          <Spin
+            tip="Loading..."
+            style={{ marginTop: "20%", fontSize: 24 }}
+            indicator={<LoadingOutlined style={{ fontSize: 36 }} />}
+          />
+        )}
         {data &&
           data.map((each, i) => (
             <BehaviorChart each={each} i={i} setIndex={setValueIndex} />
           ))}
       </div>
       {valueIndex !== null && data && (
-        <div style={{ width: "100%", textAlign: "center" }}>
+        <div style={{ width: "100%", textAlign: "center", marginTop: '5%' }}>
           <h3 style={{ textAlign: "center" }}>
-            {ocean[data[valueIndex].name]}
+            {data[valueIndex].name}
           </h3>
 
           <div
@@ -140,9 +157,7 @@ const BehaviorComponent = () => {
             {valueIndex !== null &&
               subData &&
               subData.map((each, i) => {
-                return (
-                  <BehaviorChart each={each} i={i} setIndex={setValueIndex} />
-                );
+                return <BehaviorChart each={each} i={i} />;
               })}
           </div>
         </div>

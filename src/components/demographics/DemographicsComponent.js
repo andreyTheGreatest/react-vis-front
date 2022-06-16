@@ -5,7 +5,7 @@ const { Option } = Select;
 
 let fakeData;
 
-const DemographicsComponent = () => {
+const DemographicsComponent = ({ personId }) => {
   const [selectedData, setSelectedData] = React.useState([]);
   const [option, setOption] = React.useState();
 

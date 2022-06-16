@@ -1,7 +1,7 @@
 import React from "react";
 import { RadialChart, Hint } from "react-vis";
 
-const TechnographicsComponent = () => {
+const TechnographicsComponent = ({ personId }) => {
   const [hovered, setHovered] = React.useState();
   const [data, _] = React.useState([
     { angle: 69, label: "69%", name: "Web", radius: 1 },

@@ -8,6 +8,7 @@ import DemographicsComponent from "./components/demographics/DemographicsCompone
 import TechnographicsComponent from "./components/technographics/TechnographicsComponent";
 import BehaviorComponent from "./components/behavior/BehaviorComponent";
 import GeographicsComponent from "./components/geographics/GeographicsComponent";
+import LoginComponent from "./components/LoginComponent";
 
 const useWindowSize = () => {
   const [size, setSize] = useState([0, 0]);
@@ -22,12 +23,26 @@ const useWindowSize = () => {
   return size;
 };
 
+const fakeUsersList = {
+  UserIds: [1, 12, 103],
+};
+
 const App = () => {
-  const [width, height] = useWindowSize();
+  const [personId, setPersonId] = React.useState(null);
+  const [usersList, setUsersList] = React.useState([]);
+
+  React.useEffect(() => {
+    if (usersList.length === 0)
+      fetch("http://127.0.0.1:5000/users")
+        .then((response) => response.json())
+        .then((data) => setUsersList(data.UserIds))
+        .catch((_) => setUsersList(fakeUsersList.UserIds));
+  });
 
   return (
     <BrowserRouter>
       <div className="main">
+        <LoginComponent setPersonId={setPersonId} usersList={usersList} />
         <Breadcrumb>
           <Breadcrumb.Item>
             <a href="/technographics">Technographics</a>
@@ -44,10 +59,22 @@ const App = () => {
         </Breadcrumb>
       </div>
       <Routes>
-        <Route path="technographics" element={<TechnographicsComponent />} />
-        <Route path="behavior" element={<BehaviorComponent />} />
-        <Route path="demographics" element={<DemographicsComponent />} />
-        <Route path="geographics" element={<GeographicsComponent />} />
+        <Route
+          path="technographics"
+          element={<TechnographicsComponent personId={personId} />}
+        />
+        <Route
+          path="behavior"
+          element={<BehaviorComponent personId={personId} />}
+        />
+        <Route
+          path="demographics"
+          element={<DemographicsComponent personId={personId} />}
+        />
+        <Route
+          path="geographics"
+          element={<GeographicsComponent personId={personId} />}
+        />
       </Routes>
 
       {/* <DynamicCrosshair /> */}

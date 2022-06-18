@@ -3,6 +3,7 @@ import { render } from "react-dom";
 import "antd/dist/antd.css";
 import "./styles.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import {Switch } from 'react-router';
 import { Breadcrumb } from "antd";
 import DemographicsComponent from "./components/demographics/DemographicsComponent";
 import TechnographicsComponent from "./components/technographics/TechnographicsComponent";
@@ -65,7 +66,7 @@ const App = () => {
         />
         <Route
           path="behavior"
-          element={<BehaviorComponent personId={personId} />}
+          element={<BehaviorComponent />}
         />
         <Route
           path="demographics"
@@ -75,6 +76,11 @@ const App = () => {
           path="geographics"
           element={<GeographicsComponent personId={personId} />}
         />
+
+        {/* <Switch> */}
+          <Route path="behavior/:personId" element={<BehaviorComponent />} />
+        {/* </Switch> */}
+
       </Routes>
 
       {/* <DynamicCrosshair /> */}

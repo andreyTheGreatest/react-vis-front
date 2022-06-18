@@ -1,9 +1,9 @@
+import { LoadingOutlined } from "@ant-design/icons";
 import { Spin } from "antd";
 import { transform } from "lodash";
 import React from "react";
+import { useParams } from "react-router-dom";
 import BehaviorChart from "./BehaviorChart";
-import { LoadingOutlined } from "@ant-design/icons";
-
 const fakeData = {
   O: {
     value: 0.12,
@@ -82,10 +82,11 @@ const ocean = {
   N: "Neuroticism",
 };
 
-const BehaviorComponent = ({ personId }) => {
+const BehaviorComponent = () => {
   const [data, setData] = React.useState(null);
   const [valueIndex, setValueIndex] = React.useState(null);
   const [subData, setSubData] = React.useState(null);
+  let { personId } = useParams();
 
   const iteratee = (acc, curr, index) => {
     console.log(curr, index);
@@ -129,7 +130,7 @@ const BehaviorComponent = ({ personId }) => {
           justifyContent: "center",
         }}
       >
-        {personId !== null && !data && (
+        {personId && !data && (
           <Spin
             tip="Loading..."
             style={{ marginTop: "20%", fontSize: 24 }}
@@ -142,10 +143,8 @@ const BehaviorComponent = ({ personId }) => {
           ))}
       </div>
       {valueIndex !== null && data && (
-        <div style={{ width: "100%", textAlign: "center", marginTop: '5%' }}>
-          <h3 style={{ textAlign: "center" }}>
-            {data[valueIndex].name}
-          </h3>
+        <div style={{ width: "100%", textAlign: "center", marginTop: "5%" }}>
+          <h3 style={{ textAlign: "center" }}>{data[valueIndex].name}</h3>
 
           <div
             style={{
